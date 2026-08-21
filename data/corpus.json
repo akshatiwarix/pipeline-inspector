@@ -1,0 +1,3892 @@
+{
+  "opportunities": [
+    {
+      "id": "opp-001",
+      "company": "Juniper Robotics",
+      "amount": 170000,
+      "stage": "negotiation",
+      "createdDate": "2026-01-24",
+      "stageEnteredDate": "2026-02-13",
+      "closeDate": "2026-03-12",
+      "outcomeProfile": "at-risk",
+      "contacts": [
+        {
+          "name": "Finley Nakamura",
+          "role": "Chief Technology Officer"
+        }
+      ],
+      "activityLog": [
+        {
+          "date": "2026-01-24",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Opportunity created; entered Discovery."
+        },
+        {
+          "date": "2026-01-29",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Entered Demo."
+        },
+        {
+          "date": "2026-02-03",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Entered Proposal."
+        },
+        {
+          "date": "2026-02-03",
+          "type": "call",
+          "contactName": "Finley Nakamura",
+          "note": "Introductory call with Finley Nakamura, Chief Technology Officer."
+        },
+        {
+          "date": "2026-02-08",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Entered Negotiation."
+        },
+        {
+          "date": "2026-02-14",
+          "type": "meeting",
+          "contactName": "Finley Nakamura",
+          "note": "Kickoff meeting with the extended team."
+        },
+        {
+          "date": "2026-02-14",
+          "type": "close-date-change",
+          "contactName": null,
+          "note": "Close date pushed back (push 1 of 1)."
+        },
+        {
+          "date": "2026-02-15",
+          "type": "meeting",
+          "contactName": "Finley Nakamura",
+          "note": "Technical deep dive session."
+        },
+        {
+          "date": "2026-02-16",
+          "type": "call",
+          "contactName": "Finley Nakamura",
+          "note": "Follow-up call to review open questions."
+        },
+        {
+          "date": "2026-02-19",
+          "type": "email",
+          "contactName": "Finley Nakamura",
+          "note": "Sent pricing overview."
+        },
+        {
+          "date": "2026-02-20",
+          "type": "call",
+          "contactName": "Finley Nakamura",
+          "note": "Follow-up call to review open questions."
+        }
+      ]
+    },
+    {
+      "id": "opp-002",
+      "company": "Ironwood Collective",
+      "amount": 166000,
+      "stage": "discovery",
+      "createdDate": "2026-02-27",
+      "stageEnteredDate": "2026-02-27",
+      "closeDate": "2026-05-08",
+      "outcomeProfile": "healthy",
+      "contacts": [
+        {
+          "name": "Morgan Silva",
+          "role": "Chief Revenue Officer"
+        },
+        {
+          "name": "Rowan Kwan",
+          "role": "Chief Revenue Officer"
+        },
+        {
+          "name": "Chris Foster",
+          "role": "VP of Engineering"
+        }
+      ],
+      "activityLog": [
+        {
+          "date": "2026-02-27",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Opportunity created; entered Discovery."
+        },
+        {
+          "date": "2026-02-27",
+          "type": "meeting",
+          "contactName": "Morgan Silva",
+          "note": "Introductory meeting with Morgan Silva, Chief Revenue Officer."
+        },
+        {
+          "date": "2026-02-27",
+          "type": "meeting",
+          "contactName": "Rowan Kwan",
+          "note": "Introductory meeting with Rowan Kwan, Chief Revenue Officer."
+        },
+        {
+          "date": "2026-02-27",
+          "type": "meeting",
+          "contactName": "Chris Foster",
+          "note": "Introductory meeting with Chris Foster, VP of Engineering."
+        },
+        {
+          "date": "2026-02-28",
+          "type": "meeting",
+          "contactName": "Morgan Silva",
+          "note": "Product walkthrough meeting."
+        },
+        {
+          "date": "2026-02-28",
+          "type": "call",
+          "contactName": "Morgan Silva",
+          "note": "Check-in call on timeline and next steps."
+        },
+        {
+          "date": "2026-02-28",
+          "type": "email",
+          "contactName": "Morgan Silva",
+          "note": "Sent product overview deck."
+        },
+        {
+          "date": "2026-02-28",
+          "type": "meeting",
+          "contactName": "Chris Foster",
+          "note": "Technical deep dive session."
+        },
+        {
+          "date": "2026-02-28",
+          "type": "meeting",
+          "contactName": "Morgan Silva",
+          "note": "Stakeholder alignment meeting."
+        }
+      ]
+    },
+    {
+      "id": "opp-003",
+      "company": "Lattice Digital",
+      "amount": 73000,
+      "stage": "discovery",
+      "createdDate": "2026-02-06",
+      "stageEnteredDate": "2026-02-06",
+      "closeDate": "2026-05-11",
+      "outcomeProfile": "stalling",
+      "contacts": [
+        {
+          "name": "Skyler Castillo",
+          "role": "Chief Revenue Officer"
+        },
+        {
+          "name": "Sage Abernathy",
+          "role": "Head of Customer Success"
+        }
+      ],
+      "activityLog": [
+        {
+          "date": "2026-02-06",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Opportunity created; entered Discovery."
+        },
+        {
+          "date": "2026-02-06",
+          "type": "call",
+          "contactName": "Skyler Castillo",
+          "note": "Introductory call with Skyler Castillo, Chief Revenue Officer."
+        },
+        {
+          "date": "2026-02-06",
+          "type": "meeting",
+          "contactName": "Sage Abernathy",
+          "note": "Introductory meeting with Sage Abernathy, Head of Customer Success."
+        },
+        {
+          "date": "2026-02-09",
+          "type": "meeting",
+          "contactName": "Sage Abernathy",
+          "note": "Product walkthrough meeting."
+        },
+        {
+          "date": "2026-02-18",
+          "type": "email",
+          "contactName": "Skyler Castillo",
+          "note": "Sent product overview deck."
+        },
+        {
+          "date": "2026-02-22",
+          "type": "call",
+          "contactName": "Sage Abernathy",
+          "note": "Discovery call covering current workflow and pain points."
+        }
+      ]
+    },
+    {
+      "id": "opp-004",
+      "company": "Nightshade Systems",
+      "amount": 99000,
+      "stage": "discovery",
+      "createdDate": "2026-02-24",
+      "stageEnteredDate": "2026-02-24",
+      "closeDate": "2026-05-24",
+      "outcomeProfile": "at-risk",
+      "contacts": [
+        {
+          "name": "Jamie Winters",
+          "role": "VP of Product"
+        }
+      ],
+      "activityLog": [
+        {
+          "date": "2026-02-24",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Opportunity created; entered Discovery."
+        },
+        {
+          "date": "2026-02-24",
+          "type": "meeting",
+          "contactName": "Jamie Winters",
+          "note": "Introductory meeting with Jamie Winters, VP of Product."
+        },
+        {
+          "date": "2026-02-24",
+          "type": "call",
+          "contactName": "Jamie Winters",
+          "note": "Discovery call covering current workflow and pain points."
+        },
+        {
+          "date": "2026-02-24",
+          "type": "call",
+          "contactName": "Jamie Winters",
+          "note": "Follow-up call to review open questions."
+        },
+        {
+          "date": "2026-03-01",
+          "type": "meeting",
+          "contactName": "Jamie Winters",
+          "note": "Technical deep dive session."
+        }
+      ]
+    },
+    {
+      "id": "opp-005",
+      "company": "Quarry Foundries",
+      "amount": 38000,
+      "stage": "demo",
+      "createdDate": "2026-02-06",
+      "stageEnteredDate": "2026-02-27",
+      "closeDate": "2026-05-08",
+      "outcomeProfile": "healthy",
+      "contacts": [
+        {
+          "name": "Harper Kwan",
+          "role": "VP of Product"
+        },
+        {
+          "name": "Jordan Abernathy",
+          "role": "Director of IT"
+        },
+        {
+          "name": "Devon Chen",
+          "role": "VP of Sales"
+        }
+      ],
+      "activityLog": [
+        {
+          "date": "2026-02-06",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Opportunity created; entered Discovery."
+        },
+        {
+          "date": "2026-02-11",
+          "type": "call",
+          "contactName": "Harper Kwan",
+          "note": "Introductory call with Harper Kwan, VP of Product."
+        },
+        {
+          "date": "2026-02-16",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Entered Demo."
+        },
+        {
+          "date": "2026-02-17",
+          "type": "meeting",
+          "contactName": "Jordan Abernathy",
+          "note": "Introductory meeting with Jordan Abernathy, Director of IT."
+        },
+        {
+          "date": "2026-02-22",
+          "type": "call",
+          "contactName": "Devon Chen",
+          "note": "Introductory call with Devon Chen, VP of Sales."
+        },
+        {
+          "date": "2026-02-27",
+          "type": "meeting",
+          "contactName": "Harper Kwan",
+          "note": "Product walkthrough meeting."
+        },
+        {
+          "date": "2026-02-27",
+          "type": "email",
+          "contactName": "Devon Chen",
+          "note": "Sent pricing overview."
+        },
+        {
+          "date": "2026-02-27",
+          "type": "call",
+          "contactName": "Devon Chen",
+          "note": "Check-in call on timeline and next steps."
+        },
+        {
+          "date": "2026-02-27",
+          "type": "meeting",
+          "contactName": "Jordan Abernathy",
+          "note": "Stakeholder alignment meeting."
+        },
+        {
+          "date": "2026-02-27",
+          "type": "meeting",
+          "contactName": "Harper Kwan",
+          "note": "Kickoff meeting with the extended team."
+        }
+      ]
+    },
+    {
+      "id": "opp-006",
+      "company": "Summit Technologies",
+      "amount": 43000,
+      "stage": "proposal",
+      "createdDate": "2026-02-09",
+      "stageEnteredDate": "2026-02-16",
+      "closeDate": "2026-04-03",
+      "outcomeProfile": "at-risk",
+      "contacts": [
+        {
+          "name": "Finley Foster",
+          "role": "Director of IT"
+        },
+        {
+          "name": "Dakota Silva",
+          "role": "Chief Technology Officer"
+        }
+      ],
+      "activityLog": [
+        {
+          "date": "2026-02-09",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Opportunity created; entered Discovery."
+        },
+        {
+          "date": "2026-02-11",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Entered Demo."
+        },
+        {
+          "date": "2026-02-11",
+          "type": "meeting",
+          "contactName": "Finley Foster",
+          "note": "Introductory meeting with Finley Foster, Director of IT."
+        },
+        {
+          "date": "2026-02-14",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Entered Proposal."
+        },
+        {
+          "date": "2026-02-14",
+          "type": "meeting",
+          "contactName": "Dakota Silva",
+          "note": "Introductory meeting with Dakota Silva, Chief Technology Officer."
+        },
+        {
+          "date": "2026-02-16",
+          "type": "close-date-change",
+          "contactName": null,
+          "note": "Close date pushed back (push 2 of 2)."
+        },
+        {
+          "date": "2026-02-18",
+          "type": "meeting",
+          "contactName": "Dakota Silva",
+          "note": "Stakeholder alignment meeting."
+        },
+        {
+          "date": "2026-02-18",
+          "type": "meeting",
+          "contactName": "Finley Foster",
+          "note": "Stakeholder alignment meeting."
+        },
+        {
+          "date": "2026-02-21",
+          "type": "meeting",
+          "contactName": "Finley Foster",
+          "note": "Kickoff meeting with the extended team."
+        },
+        {
+          "date": "2026-02-21",
+          "type": "close-date-change",
+          "contactName": null,
+          "note": "Close date pushed back (push 1 of 2)."
+        },
+        {
+          "date": "2026-02-22",
+          "type": "email",
+          "contactName": "Dakota Silva",
+          "note": "Sent pricing overview."
+        },
+        {
+          "date": "2026-02-23",
+          "type": "call",
+          "contactName": "Finley Foster",
+          "note": "Check-in call on timeline and next steps."
+        },
+        {
+          "date": "2026-03-01",
+          "type": "call",
+          "contactName": "Dakota Silva",
+          "note": "Discovery call covering current workflow and pain points."
+        }
+      ]
+    },
+    {
+      "id": "opp-007",
+      "company": "Meridian Technologies",
+      "amount": 31000,
+      "stage": "discovery",
+      "createdDate": "2026-01-18",
+      "stageEnteredDate": "2026-01-18",
+      "closeDate": "2026-05-14",
+      "outcomeProfile": "stalling",
+      "contacts": [
+        {
+          "name": "Alexis Okafor",
+          "role": "Head of Customer Success"
+        },
+        {
+          "name": "Skyler Silva",
+          "role": "Chief Technology Officer"
+        }
+      ],
+      "activityLog": [
+        {
+          "date": "2026-01-18",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Opportunity created; entered Discovery."
+        },
+        {
+          "date": "2026-01-18",
+          "type": "call",
+          "contactName": "Alexis Okafor",
+          "note": "Introductory call with Alexis Okafor, Head of Customer Success."
+        },
+        {
+          "date": "2026-01-18",
+          "type": "meeting",
+          "contactName": "Skyler Silva",
+          "note": "Introductory meeting with Skyler Silva, Chief Technology Officer."
+        },
+        {
+          "date": "2026-01-21",
+          "type": "call",
+          "contactName": "Skyler Silva",
+          "note": "Discovery call covering current workflow and pain points."
+        },
+        {
+          "date": "2026-01-21",
+          "type": "email",
+          "contactName": "Skyler Silva",
+          "note": "Sent product overview deck."
+        },
+        {
+          "date": "2026-01-22",
+          "type": "meeting",
+          "contactName": "Skyler Silva",
+          "note": "Kickoff meeting with the extended team."
+        },
+        {
+          "date": "2026-01-28",
+          "type": "call",
+          "contactName": "Skyler Silva",
+          "note": "Discovery call covering current workflow and pain points."
+        },
+        {
+          "date": "2026-01-28",
+          "type": "meeting",
+          "contactName": "Alexis Okafor",
+          "note": "Stakeholder alignment meeting."
+        }
+      ]
+    },
+    {
+      "id": "opp-008",
+      "company": "Lattice Cloudworks",
+      "amount": 238000,
+      "stage": "proposal",
+      "createdDate": "2026-01-13",
+      "stageEnteredDate": "2026-02-04",
+      "closeDate": "2026-04-06",
+      "outcomeProfile": "at-risk",
+      "contacts": [
+        {
+          "name": "Finley Fitzgerald",
+          "role": "VP of Sales"
+        },
+        {
+          "name": "Jordan Marsh",
+          "role": "VP of Product"
+        }
+      ],
+      "activityLog": [
+        {
+          "date": "2026-01-13",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Opportunity created; entered Discovery."
+        },
+        {
+          "date": "2026-01-20",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Entered Demo."
+        },
+        {
+          "date": "2026-01-20",
+          "type": "call",
+          "contactName": "Finley Fitzgerald",
+          "note": "Introductory call with Finley Fitzgerald, VP of Sales."
+        },
+        {
+          "date": "2026-01-28",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Entered Proposal."
+        },
+        {
+          "date": "2026-01-28",
+          "type": "call",
+          "contactName": "Jordan Marsh",
+          "note": "Introductory call with Jordan Marsh, VP of Product."
+        },
+        {
+          "date": "2026-02-04",
+          "type": "meeting",
+          "contactName": "Finley Fitzgerald",
+          "note": "Product walkthrough meeting."
+        },
+        {
+          "date": "2026-02-06",
+          "type": "call",
+          "contactName": "Jordan Marsh",
+          "note": "Call to align on requirements."
+        },
+        {
+          "date": "2026-02-08",
+          "type": "meeting",
+          "contactName": "Jordan Marsh",
+          "note": "Product walkthrough meeting."
+        },
+        {
+          "date": "2026-02-10",
+          "type": "call",
+          "contactName": "Jordan Marsh",
+          "note": "Follow-up call to review open questions."
+        },
+        {
+          "date": "2026-02-12",
+          "type": "meeting",
+          "contactName": "Jordan Marsh",
+          "note": "Stakeholder alignment meeting."
+        },
+        {
+          "date": "2026-02-12",
+          "type": "email",
+          "contactName": "Finley Fitzgerald",
+          "note": "Sent product overview deck."
+        }
+      ]
+    },
+    {
+      "id": "opp-009",
+      "company": "Beacon Digital",
+      "amount": 151000,
+      "stage": "demo",
+      "createdDate": "2026-01-27",
+      "stageEnteredDate": "2026-02-03",
+      "closeDate": "2026-04-21",
+      "outcomeProfile": "stalling",
+      "contacts": [
+        {
+          "name": "Casey Foster",
+          "role": "VP of Product"
+        },
+        {
+          "name": "Alexis Reyes",
+          "role": "VP of Sales"
+        }
+      ],
+      "activityLog": [
+        {
+          "date": "2026-01-27",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Opportunity created; entered Discovery."
+        },
+        {
+          "date": "2026-01-29",
+          "type": "call",
+          "contactName": "Casey Foster",
+          "note": "Introductory call with Casey Foster, VP of Product."
+        },
+        {
+          "date": "2026-01-30",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Entered Demo."
+        },
+        {
+          "date": "2026-02-01",
+          "type": "call",
+          "contactName": "Alexis Reyes",
+          "note": "Introductory call with Alexis Reyes, VP of Sales."
+        },
+        {
+          "date": "2026-02-05",
+          "type": "meeting",
+          "contactName": "Alexis Reyes",
+          "note": "Technical deep dive session."
+        },
+        {
+          "date": "2026-02-08",
+          "type": "meeting",
+          "contactName": "Alexis Reyes",
+          "note": "Technical deep dive session."
+        },
+        {
+          "date": "2026-02-09",
+          "type": "call",
+          "contactName": "Casey Foster",
+          "note": "Check-in call on timeline and next steps."
+        },
+        {
+          "date": "2026-02-12",
+          "type": "meeting",
+          "contactName": "Casey Foster",
+          "note": "Product walkthrough meeting."
+        },
+        {
+          "date": "2026-02-13",
+          "type": "call",
+          "contactName": "Casey Foster",
+          "note": "Discovery call covering current workflow and pain points."
+        }
+      ]
+    },
+    {
+      "id": "opp-010",
+      "company": "Meridian Capital",
+      "amount": 150000,
+      "stage": "demo",
+      "createdDate": "2026-01-01",
+      "stageEnteredDate": "2026-02-06",
+      "closeDate": "2026-04-21",
+      "outcomeProfile": "stalling",
+      "contacts": [
+        {
+          "name": "Chris Bennett",
+          "role": "Head of Customer Success"
+        }
+      ],
+      "activityLog": [
+        {
+          "date": "2026-01-01",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Opportunity created; entered Discovery."
+        },
+        {
+          "date": "2026-01-19",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Entered Demo."
+        },
+        {
+          "date": "2026-01-19",
+          "type": "call",
+          "contactName": "Chris Bennett",
+          "note": "Introductory call with Chris Bennett, Head of Customer Success."
+        },
+        {
+          "date": "2026-02-06",
+          "type": "call",
+          "contactName": "Chris Bennett",
+          "note": "Call to align on requirements."
+        },
+        {
+          "date": "2026-02-07",
+          "type": "call",
+          "contactName": "Chris Bennett",
+          "note": "Call to align on requirements."
+        },
+        {
+          "date": "2026-02-08",
+          "type": "call",
+          "contactName": "Chris Bennett",
+          "note": "Check-in call on timeline and next steps."
+        },
+        {
+          "date": "2026-02-10",
+          "type": "meeting",
+          "contactName": "Chris Bennett",
+          "note": "Kickoff meeting with the extended team."
+        },
+        {
+          "date": "2026-02-11",
+          "type": "call",
+          "contactName": "Chris Bennett",
+          "note": "Call to align on requirements."
+        },
+        {
+          "date": "2026-02-12",
+          "type": "call",
+          "contactName": "Chris Bennett",
+          "note": "Check-in call on timeline and next steps."
+        }
+      ]
+    },
+    {
+      "id": "opp-011",
+      "company": "Keystone Foundries",
+      "amount": 71000,
+      "stage": "discovery",
+      "createdDate": "2026-02-21",
+      "stageEnteredDate": "2026-02-21",
+      "closeDate": "2026-05-10",
+      "outcomeProfile": "healthy",
+      "contacts": [
+        {
+          "name": "Chris Chen",
+          "role": "Head of Customer Success"
+        },
+        {
+          "name": "Casey Ortiz",
+          "role": "VP of Engineering"
+        }
+      ],
+      "activityLog": [
+        {
+          "date": "2026-02-21",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Opportunity created; entered Discovery."
+        },
+        {
+          "date": "2026-02-21",
+          "type": "meeting",
+          "contactName": "Chris Chen",
+          "note": "Introductory meeting with Chris Chen, Head of Customer Success."
+        },
+        {
+          "date": "2026-02-21",
+          "type": "call",
+          "contactName": "Casey Ortiz",
+          "note": "Introductory call with Casey Ortiz, VP of Engineering."
+        },
+        {
+          "date": "2026-02-22",
+          "type": "email",
+          "contactName": "Chris Chen",
+          "note": "Sent product overview deck."
+        },
+        {
+          "date": "2026-02-24",
+          "type": "meeting",
+          "contactName": "Casey Ortiz",
+          "note": "Product walkthrough meeting."
+        },
+        {
+          "date": "2026-02-27",
+          "type": "email",
+          "contactName": "Casey Ortiz",
+          "note": "Sent product overview deck."
+        },
+        {
+          "date": "2026-03-01",
+          "type": "call",
+          "contactName": "Casey Ortiz",
+          "note": "Follow-up call to review open questions."
+        }
+      ]
+    },
+    {
+      "id": "opp-012",
+      "company": "Ember Analytics",
+      "amount": 41000,
+      "stage": "discovery",
+      "createdDate": "2026-02-24",
+      "stageEnteredDate": "2026-02-24",
+      "closeDate": "2026-05-18",
+      "outcomeProfile": "at-risk",
+      "contacts": [
+        {
+          "name": "Alexis Abernathy",
+          "role": "Head of Customer Success"
+        }
+      ],
+      "activityLog": [
+        {
+          "date": "2026-02-24",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Opportunity created; entered Discovery."
+        },
+        {
+          "date": "2026-02-24",
+          "type": "meeting",
+          "contactName": "Alexis Abernathy",
+          "note": "Introductory meeting with Alexis Abernathy, Head of Customer Success."
+        },
+        {
+          "date": "2026-02-24",
+          "type": "call",
+          "contactName": "Alexis Abernathy",
+          "note": "Check-in call on timeline and next steps."
+        },
+        {
+          "date": "2026-02-24",
+          "type": "close-date-change",
+          "contactName": null,
+          "note": "Close date pushed back (push 2 of 3)."
+        },
+        {
+          "date": "2026-02-24",
+          "type": "close-date-change",
+          "contactName": null,
+          "note": "Close date pushed back (push 3 of 3)."
+        },
+        {
+          "date": "2026-02-26",
+          "type": "meeting",
+          "contactName": "Alexis Abernathy",
+          "note": "Kickoff meeting with the extended team."
+        },
+        {
+          "date": "2026-02-27",
+          "type": "meeting",
+          "contactName": "Alexis Abernathy",
+          "note": "Product walkthrough meeting."
+        },
+        {
+          "date": "2026-02-27",
+          "type": "call",
+          "contactName": "Alexis Abernathy",
+          "note": "Follow-up call to review open questions."
+        },
+        {
+          "date": "2026-02-27",
+          "type": "close-date-change",
+          "contactName": null,
+          "note": "Close date pushed back (push 1 of 3)."
+        }
+      ]
+    },
+    {
+      "id": "opp-013",
+      "company": "Hollow Labs",
+      "amount": 33000,
+      "stage": "proposal",
+      "createdDate": "2026-02-08",
+      "stageEnteredDate": "2026-02-14",
+      "closeDate": "2026-04-10",
+      "outcomeProfile": "at-risk",
+      "contacts": [
+        {
+          "name": "Jamie Castillo",
+          "role": "Director of Operations"
+        },
+        {
+          "name": "Chris Kwan",
+          "role": "Head of Marketing"
+        }
+      ],
+      "activityLog": [
+        {
+          "date": "2026-02-08",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Opportunity created; entered Discovery."
+        },
+        {
+          "date": "2026-02-10",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Entered Demo."
+        },
+        {
+          "date": "2026-02-10",
+          "type": "meeting",
+          "contactName": "Jamie Castillo",
+          "note": "Introductory meeting with Jamie Castillo, Director of Operations."
+        },
+        {
+          "date": "2026-02-12",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Entered Proposal."
+        },
+        {
+          "date": "2026-02-12",
+          "type": "call",
+          "contactName": "Chris Kwan",
+          "note": "Introductory call with Chris Kwan, Head of Marketing."
+        },
+        {
+          "date": "2026-02-14",
+          "type": "call",
+          "contactName": "Jamie Castillo",
+          "note": "Follow-up call to review open questions."
+        },
+        {
+          "date": "2026-02-14",
+          "type": "close-date-change",
+          "contactName": null,
+          "note": "Close date pushed back (push 2 of 2)."
+        },
+        {
+          "date": "2026-02-19",
+          "type": "email",
+          "contactName": "Jamie Castillo",
+          "note": "Sent product overview deck."
+        },
+        {
+          "date": "2026-02-19",
+          "type": "call",
+          "contactName": "Chris Kwan",
+          "note": "Follow-up call to review open questions."
+        },
+        {
+          "date": "2026-02-20",
+          "type": "call",
+          "contactName": "Jamie Castillo",
+          "note": "Discovery call covering current workflow and pain points."
+        },
+        {
+          "date": "2026-02-20",
+          "type": "meeting",
+          "contactName": "Chris Kwan",
+          "note": "Stakeholder alignment meeting."
+        },
+        {
+          "date": "2026-02-20",
+          "type": "close-date-change",
+          "contactName": null,
+          "note": "Close date pushed back (push 1 of 2)."
+        }
+      ]
+    },
+    {
+      "id": "opp-014",
+      "company": "Pinnacle Dynamics",
+      "amount": 173000,
+      "stage": "discovery",
+      "createdDate": "2026-01-30",
+      "stageEnteredDate": "2026-01-30",
+      "closeDate": "2026-05-18",
+      "outcomeProfile": "stalling",
+      "contacts": [
+        {
+          "name": "Rowan Patel",
+          "role": "VP of Product"
+        },
+        {
+          "name": "Jordan Hughes",
+          "role": "Chief Revenue Officer"
+        }
+      ],
+      "activityLog": [
+        {
+          "date": "2026-01-30",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Opportunity created; entered Discovery."
+        },
+        {
+          "date": "2026-01-30",
+          "type": "call",
+          "contactName": "Rowan Patel",
+          "note": "Introductory call with Rowan Patel, VP of Product."
+        },
+        {
+          "date": "2026-01-30",
+          "type": "meeting",
+          "contactName": "Jordan Hughes",
+          "note": "Introductory meeting with Jordan Hughes, Chief Revenue Officer."
+        },
+        {
+          "date": "2026-01-30",
+          "type": "meeting",
+          "contactName": "Jordan Hughes",
+          "note": "Product walkthrough meeting."
+        },
+        {
+          "date": "2026-01-31",
+          "type": "email",
+          "contactName": "Rowan Patel",
+          "note": "Replied with answers to technical questions."
+        },
+        {
+          "date": "2026-01-31",
+          "type": "meeting",
+          "contactName": "Rowan Patel",
+          "note": "Technical deep dive session."
+        },
+        {
+          "date": "2026-01-31",
+          "type": "email",
+          "contactName": "Jordan Hughes",
+          "note": "Sent a relevant case study."
+        },
+        {
+          "date": "2026-02-01",
+          "type": "meeting",
+          "contactName": "Jordan Hughes",
+          "note": "Stakeholder alignment meeting."
+        }
+      ]
+    },
+    {
+      "id": "opp-015",
+      "company": "Summit Cloudworks",
+      "amount": 174000,
+      "stage": "demo",
+      "createdDate": "2026-01-12",
+      "stageEnteredDate": "2026-01-18",
+      "closeDate": "2026-05-05",
+      "outcomeProfile": "stalling",
+      "contacts": [
+        {
+          "name": "Jamie Patel",
+          "role": "Director of IT"
+        },
+        {
+          "name": "Sage Reyes",
+          "role": "Chief Revenue Officer"
+        }
+      ],
+      "activityLog": [
+        {
+          "date": "2026-01-12",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Opportunity created; entered Discovery."
+        },
+        {
+          "date": "2026-01-14",
+          "type": "meeting",
+          "contactName": "Jamie Patel",
+          "note": "Introductory meeting with Jamie Patel, Director of IT."
+        },
+        {
+          "date": "2026-01-15",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Entered Demo."
+        },
+        {
+          "date": "2026-01-16",
+          "type": "meeting",
+          "contactName": "Sage Reyes",
+          "note": "Introductory meeting with Sage Reyes, Chief Revenue Officer."
+        },
+        {
+          "date": "2026-01-20",
+          "type": "meeting",
+          "contactName": "Jamie Patel",
+          "note": "Kickoff meeting with the extended team."
+        },
+        {
+          "date": "2026-01-21",
+          "type": "email",
+          "contactName": "Sage Reyes",
+          "note": "Replied with answers to technical questions."
+        },
+        {
+          "date": "2026-01-21",
+          "type": "call",
+          "contactName": "Jamie Patel",
+          "note": "Call to align on requirements."
+        },
+        {
+          "date": "2026-01-22",
+          "type": "call",
+          "contactName": "Jamie Patel",
+          "note": "Discovery call covering current workflow and pain points."
+        }
+      ]
+    },
+    {
+      "id": "opp-016",
+      "company": "Juniper Capital",
+      "amount": 26000,
+      "stage": "discovery",
+      "createdDate": "2026-01-27",
+      "stageEnteredDate": "2026-01-27",
+      "closeDate": "2026-05-23",
+      "outcomeProfile": "stalling",
+      "contacts": [
+        {
+          "name": "Reese Chen",
+          "role": "Director of Engineering"
+        },
+        {
+          "name": "Emerson Bennett",
+          "role": "Director of Operations"
+        }
+      ],
+      "activityLog": [
+        {
+          "date": "2026-01-27",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Opportunity created; entered Discovery."
+        },
+        {
+          "date": "2026-01-27",
+          "type": "meeting",
+          "contactName": "Reese Chen",
+          "note": "Introductory meeting with Reese Chen, Director of Engineering."
+        },
+        {
+          "date": "2026-01-27",
+          "type": "meeting",
+          "contactName": "Emerson Bennett",
+          "note": "Introductory meeting with Emerson Bennett, Director of Operations."
+        },
+        {
+          "date": "2026-01-27",
+          "type": "call",
+          "contactName": "Emerson Bennett",
+          "note": "Call to align on requirements."
+        },
+        {
+          "date": "2026-01-27",
+          "type": "meeting",
+          "contactName": "Reese Chen",
+          "note": "Technical deep dive session."
+        },
+        {
+          "date": "2026-01-27",
+          "type": "close-date-change",
+          "contactName": null,
+          "note": "Close date pushed back (push 1 of 1)."
+        },
+        {
+          "date": "2026-01-28",
+          "type": "meeting",
+          "contactName": "Reese Chen",
+          "note": "Kickoff meeting with the extended team."
+        }
+      ]
+    },
+    {
+      "id": "opp-017",
+      "company": "Granite Logistics",
+      "amount": 20000,
+      "stage": "proposal",
+      "createdDate": "2025-12-20",
+      "stageEnteredDate": "2026-01-27",
+      "closeDate": "2026-04-14",
+      "outcomeProfile": "stalling",
+      "contacts": [
+        {
+          "name": "Morgan Foster",
+          "role": "Chief Revenue Officer"
+        },
+        {
+          "name": "Sage Bennett",
+          "role": "VP of Engineering"
+        }
+      ],
+      "activityLog": [
+        {
+          "date": "2025-12-20",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Opportunity created; entered Discovery."
+        },
+        {
+          "date": "2026-01-02",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Entered Demo."
+        },
+        {
+          "date": "2026-01-02",
+          "type": "meeting",
+          "contactName": "Morgan Foster",
+          "note": "Introductory meeting with Morgan Foster, Chief Revenue Officer."
+        },
+        {
+          "date": "2026-01-14",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Entered Proposal."
+        },
+        {
+          "date": "2026-01-14",
+          "type": "call",
+          "contactName": "Sage Bennett",
+          "note": "Introductory call with Sage Bennett, VP of Engineering."
+        },
+        {
+          "date": "2026-01-27",
+          "type": "email",
+          "contactName": "Sage Bennett",
+          "note": "Sent product overview deck."
+        },
+        {
+          "date": "2026-01-28",
+          "type": "call",
+          "contactName": "Sage Bennett",
+          "note": "Discovery call covering current workflow and pain points."
+        },
+        {
+          "date": "2026-01-29",
+          "type": "meeting",
+          "contactName": "Morgan Foster",
+          "note": "Kickoff meeting with the extended team."
+        },
+        {
+          "date": "2026-01-30",
+          "type": "call",
+          "contactName": "Morgan Foster",
+          "note": "Check-in call on timeline and next steps."
+        },
+        {
+          "date": "2026-02-02",
+          "type": "email",
+          "contactName": "Sage Bennett",
+          "note": "Replied with answers to technical questions."
+        },
+        {
+          "date": "2026-02-02",
+          "type": "meeting",
+          "contactName": "Morgan Foster",
+          "note": "Stakeholder alignment meeting."
+        }
+      ]
+    },
+    {
+      "id": "opp-018",
+      "company": "Hollow Technologies",
+      "amount": 72000,
+      "stage": "discovery",
+      "createdDate": "2026-02-26",
+      "stageEnteredDate": "2026-02-26",
+      "closeDate": "2026-05-23",
+      "outcomeProfile": "healthy",
+      "contacts": [
+        {
+          "name": "Reese Kwan",
+          "role": "VP of Sales"
+        },
+        {
+          "name": "Emerson Nakamura",
+          "role": "VP of Sales"
+        }
+      ],
+      "activityLog": [
+        {
+          "date": "2026-02-26",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Opportunity created; entered Discovery."
+        },
+        {
+          "date": "2026-02-26",
+          "type": "call",
+          "contactName": "Reese Kwan",
+          "note": "Introductory call with Reese Kwan, VP of Sales."
+        },
+        {
+          "date": "2026-02-26",
+          "type": "meeting",
+          "contactName": "Emerson Nakamura",
+          "note": "Introductory meeting with Emerson Nakamura, VP of Sales."
+        },
+        {
+          "date": "2026-02-26",
+          "type": "meeting",
+          "contactName": "Emerson Nakamura",
+          "note": "Product walkthrough meeting."
+        },
+        {
+          "date": "2026-02-26",
+          "type": "call",
+          "contactName": "Emerson Nakamura",
+          "note": "Call to align on requirements."
+        },
+        {
+          "date": "2026-02-26",
+          "type": "meeting",
+          "contactName": "Emerson Nakamura",
+          "note": "Kickoff meeting with the extended team."
+        },
+        {
+          "date": "2026-02-26",
+          "type": "call",
+          "contactName": "Emerson Nakamura",
+          "note": "Check-in call on timeline and next steps."
+        }
+      ]
+    },
+    {
+      "id": "opp-019",
+      "company": "Quarry Labs",
+      "amount": 23000,
+      "stage": "discovery",
+      "createdDate": "2026-02-22",
+      "stageEnteredDate": "2026-02-22",
+      "closeDate": "2026-05-25",
+      "outcomeProfile": "healthy",
+      "contacts": [
+        {
+          "name": "Taylor Patel",
+          "role": "Chief Technology Officer"
+        },
+        {
+          "name": "Sage Ortiz",
+          "role": "VP of Product"
+        },
+        {
+          "name": "Blair Castillo",
+          "role": "Director of Engineering"
+        }
+      ],
+      "activityLog": [
+        {
+          "date": "2026-02-22",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Opportunity created; entered Discovery."
+        },
+        {
+          "date": "2026-02-22",
+          "type": "call",
+          "contactName": "Taylor Patel",
+          "note": "Introductory call with Taylor Patel, Chief Technology Officer."
+        },
+        {
+          "date": "2026-02-22",
+          "type": "meeting",
+          "contactName": "Sage Ortiz",
+          "note": "Introductory meeting with Sage Ortiz, VP of Product."
+        },
+        {
+          "date": "2026-02-22",
+          "type": "meeting",
+          "contactName": "Blair Castillo",
+          "note": "Introductory meeting with Blair Castillo, Director of Engineering."
+        },
+        {
+          "date": "2026-02-22",
+          "type": "meeting",
+          "contactName": "Taylor Patel",
+          "note": "Technical deep dive session."
+        },
+        {
+          "date": "2026-02-22",
+          "type": "meeting",
+          "contactName": "Blair Castillo",
+          "note": "Product walkthrough meeting."
+        },
+        {
+          "date": "2026-02-22",
+          "type": "meeting",
+          "contactName": "Blair Castillo",
+          "note": "Kickoff meeting with the extended team."
+        },
+        {
+          "date": "2026-02-22",
+          "type": "meeting",
+          "contactName": "Sage Ortiz",
+          "note": "Technical deep dive session."
+        }
+      ]
+    },
+    {
+      "id": "opp-020",
+      "company": "Ridgeline Capital",
+      "amount": 24000,
+      "stage": "demo",
+      "createdDate": "2026-01-10",
+      "stageEnteredDate": "2026-01-31",
+      "closeDate": "2026-05-05",
+      "outcomeProfile": "stalling",
+      "contacts": [
+        {
+          "name": "Quinn Patel",
+          "role": "Head of Marketing"
+        },
+        {
+          "name": "Skyler Hughes",
+          "role": "VP of Engineering"
+        },
+        {
+          "name": "Morgan Marsh",
+          "role": "Director of Operations"
+        }
+      ],
+      "activityLog": [
+        {
+          "date": "2026-01-10",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Opportunity created; entered Discovery."
+        },
+        {
+          "date": "2026-01-15",
+          "type": "call",
+          "contactName": "Quinn Patel",
+          "note": "Introductory call with Quinn Patel, Head of Marketing."
+        },
+        {
+          "date": "2026-01-20",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Entered Demo."
+        },
+        {
+          "date": "2026-01-21",
+          "type": "meeting",
+          "contactName": "Skyler Hughes",
+          "note": "Introductory meeting with Skyler Hughes, VP of Engineering."
+        },
+        {
+          "date": "2026-01-26",
+          "type": "call",
+          "contactName": "Morgan Marsh",
+          "note": "Introductory call with Morgan Marsh, Director of Operations."
+        },
+        {
+          "date": "2026-02-26",
+          "type": "meeting",
+          "contactName": "Quinn Patel",
+          "note": "Kickoff meeting with the extended team."
+        },
+        {
+          "date": "2026-02-27",
+          "type": "email",
+          "contactName": "Morgan Marsh",
+          "note": "Sent pricing overview."
+        },
+        {
+          "date": "2026-03-01",
+          "type": "email",
+          "contactName": "Morgan Marsh",
+          "note": "Sent pricing overview."
+        }
+      ]
+    },
+    {
+      "id": "opp-021",
+      "company": "Lattice Logistics",
+      "amount": 92000,
+      "stage": "proposal",
+      "createdDate": "2025-12-25",
+      "stageEnteredDate": "2026-01-10",
+      "closeDate": "2026-04-02",
+      "outcomeProfile": "stalling",
+      "contacts": [
+        {
+          "name": "Avery Okafor",
+          "role": "Chief Technology Officer"
+        },
+        {
+          "name": "Riley Winters",
+          "role": "Head of Customer Success"
+        }
+      ],
+      "activityLog": [
+        {
+          "date": "2025-12-25",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Opportunity created; entered Discovery."
+        },
+        {
+          "date": "2025-12-30",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Entered Demo."
+        },
+        {
+          "date": "2025-12-30",
+          "type": "call",
+          "contactName": "Avery Okafor",
+          "note": "Introductory call with Avery Okafor, Chief Technology Officer."
+        },
+        {
+          "date": "2026-01-05",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Entered Proposal."
+        },
+        {
+          "date": "2026-01-05",
+          "type": "call",
+          "contactName": "Riley Winters",
+          "note": "Introductory call with Riley Winters, Head of Customer Success."
+        },
+        {
+          "date": "2026-01-10",
+          "type": "call",
+          "contactName": "Riley Winters",
+          "note": "Call to align on requirements."
+        },
+        {
+          "date": "2026-01-12",
+          "type": "email",
+          "contactName": "Riley Winters",
+          "note": "Replied with answers to technical questions."
+        },
+        {
+          "date": "2026-01-13",
+          "type": "meeting",
+          "contactName": "Avery Okafor",
+          "note": "Kickoff meeting with the extended team."
+        },
+        {
+          "date": "2026-01-15",
+          "type": "call",
+          "contactName": "Avery Okafor",
+          "note": "Call to align on requirements."
+        },
+        {
+          "date": "2026-01-15",
+          "type": "call",
+          "contactName": "Riley Winters",
+          "note": "Call to align on requirements."
+        }
+      ]
+    },
+    {
+      "id": "opp-022",
+      "company": "Hollow Logistics",
+      "amount": 35000,
+      "stage": "proposal",
+      "createdDate": "2026-02-21",
+      "stageEnteredDate": "2026-02-27",
+      "closeDate": "2026-04-20",
+      "outcomeProfile": "healthy",
+      "contacts": [
+        {
+          "name": "Emerson Fitzgerald",
+          "role": "VP of Engineering"
+        },
+        {
+          "name": "Finley Silva",
+          "role": "VP of Engineering"
+        }
+      ],
+      "activityLog": [
+        {
+          "date": "2026-02-21",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Opportunity created; entered Discovery."
+        },
+        {
+          "date": "2026-02-23",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Entered Demo."
+        },
+        {
+          "date": "2026-02-23",
+          "type": "call",
+          "contactName": "Emerson Fitzgerald",
+          "note": "Introductory call with Emerson Fitzgerald, VP of Engineering."
+        },
+        {
+          "date": "2026-02-25",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Entered Proposal."
+        },
+        {
+          "date": "2026-02-25",
+          "type": "meeting",
+          "contactName": "Finley Silva",
+          "note": "Introductory meeting with Finley Silva, VP of Engineering."
+        },
+        {
+          "date": "2026-02-27",
+          "type": "email",
+          "contactName": "Emerson Fitzgerald",
+          "note": "Sent a relevant case study."
+        },
+        {
+          "date": "2026-02-27",
+          "type": "call",
+          "contactName": "Finley Silva",
+          "note": "Follow-up call to review open questions."
+        },
+        {
+          "date": "2026-02-27",
+          "type": "call",
+          "contactName": "Emerson Fitzgerald",
+          "note": "Check-in call on timeline and next steps."
+        },
+        {
+          "date": "2026-02-27",
+          "type": "call",
+          "contactName": "Emerson Fitzgerald",
+          "note": "Check-in call on timeline and next steps."
+        }
+      ]
+    },
+    {
+      "id": "opp-023",
+      "company": "Ironwood Robotics",
+      "amount": 32000,
+      "stage": "discovery",
+      "createdDate": "2026-01-31",
+      "stageEnteredDate": "2026-01-31",
+      "closeDate": "2026-05-23",
+      "outcomeProfile": "stalling",
+      "contacts": [
+        {
+          "name": "Reese Silva",
+          "role": "Director of Engineering"
+        }
+      ],
+      "activityLog": [
+        {
+          "date": "2026-01-31",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Opportunity created; entered Discovery."
+        },
+        {
+          "date": "2026-01-31",
+          "type": "meeting",
+          "contactName": "Reese Silva",
+          "note": "Introductory meeting with Reese Silva, Director of Engineering."
+        },
+        {
+          "date": "2026-02-16",
+          "type": "call",
+          "contactName": "Reese Silva",
+          "note": "Check-in call on timeline and next steps."
+        },
+        {
+          "date": "2026-02-19",
+          "type": "call",
+          "contactName": "Reese Silva",
+          "note": "Discovery call covering current workflow and pain points."
+        },
+        {
+          "date": "2026-02-20",
+          "type": "email",
+          "contactName": "Reese Silva",
+          "note": "Sent product overview deck."
+        },
+        {
+          "date": "2026-02-22",
+          "type": "call",
+          "contactName": "Reese Silva",
+          "note": "Call to align on requirements."
+        },
+        {
+          "date": "2026-02-22",
+          "type": "email",
+          "contactName": "Reese Silva",
+          "note": "Sent a relevant case study."
+        },
+        {
+          "date": "2026-02-26",
+          "type": "call",
+          "contactName": "Reese Silva",
+          "note": "Discovery call covering current workflow and pain points."
+        }
+      ]
+    },
+    {
+      "id": "opp-024",
+      "company": "Hollow AI",
+      "amount": 52000,
+      "stage": "discovery",
+      "createdDate": "2026-02-24",
+      "stageEnteredDate": "2026-02-24",
+      "closeDate": "2026-05-15",
+      "outcomeProfile": "healthy",
+      "contacts": [
+        {
+          "name": "Devon Hughes",
+          "role": "Director of Engineering"
+        },
+        {
+          "name": "Casey Bennett",
+          "role": "Chief Revenue Officer"
+        }
+      ],
+      "activityLog": [
+        {
+          "date": "2026-02-24",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Opportunity created; entered Discovery."
+        },
+        {
+          "date": "2026-02-24",
+          "type": "meeting",
+          "contactName": "Devon Hughes",
+          "note": "Introductory meeting with Devon Hughes, Director of Engineering."
+        },
+        {
+          "date": "2026-02-24",
+          "type": "meeting",
+          "contactName": "Casey Bennett",
+          "note": "Introductory meeting with Casey Bennett, Chief Revenue Officer."
+        },
+        {
+          "date": "2026-02-24",
+          "type": "email",
+          "contactName": "Devon Hughes",
+          "note": "Sent pricing overview."
+        },
+        {
+          "date": "2026-02-24",
+          "type": "call",
+          "contactName": "Devon Hughes",
+          "note": "Call to align on requirements."
+        },
+        {
+          "date": "2026-02-25",
+          "type": "call",
+          "contactName": "Casey Bennett",
+          "note": "Call to align on requirements."
+        }
+      ]
+    },
+    {
+      "id": "opp-025",
+      "company": "Keystone Analytics",
+      "amount": 157000,
+      "stage": "proposal",
+      "createdDate": "2026-02-03",
+      "stageEnteredDate": "2026-02-19",
+      "closeDate": "2026-04-05",
+      "outcomeProfile": "healthy",
+      "contacts": [
+        {
+          "name": "Taylor Reyes",
+          "role": "VP of Engineering"
+        },
+        {
+          "name": "Skyler Okafor",
+          "role": "Chief Technology Officer"
+        },
+        {
+          "name": "Sage Chen",
+          "role": "Chief Technology Officer"
+        }
+      ],
+      "activityLog": [
+        {
+          "date": "2026-02-03",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Opportunity created; entered Discovery."
+        },
+        {
+          "date": "2026-02-07",
+          "type": "meeting",
+          "contactName": "Taylor Reyes",
+          "note": "Introductory meeting with Taylor Reyes, VP of Engineering."
+        },
+        {
+          "date": "2026-02-08",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Entered Demo."
+        },
+        {
+          "date": "2026-02-11",
+          "type": "meeting",
+          "contactName": "Skyler Okafor",
+          "note": "Introductory meeting with Skyler Okafor, Chief Technology Officer."
+        },
+        {
+          "date": "2026-02-14",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Entered Proposal."
+        },
+        {
+          "date": "2026-02-15",
+          "type": "call",
+          "contactName": "Sage Chen",
+          "note": "Introductory call with Sage Chen, Chief Technology Officer."
+        },
+        {
+          "date": "2026-02-21",
+          "type": "call",
+          "contactName": "Skyler Okafor",
+          "note": "Discovery call covering current workflow and pain points."
+        },
+        {
+          "date": "2026-02-21",
+          "type": "meeting",
+          "contactName": "Skyler Okafor",
+          "note": "Technical deep dive session."
+        },
+        {
+          "date": "2026-02-22",
+          "type": "email",
+          "contactName": "Taylor Reyes",
+          "note": "Sent pricing overview."
+        }
+      ]
+    },
+    {
+      "id": "opp-026",
+      "company": "Anchor Health",
+      "amount": 20000,
+      "stage": "negotiation",
+      "createdDate": "2026-01-14",
+      "stageEnteredDate": "2026-02-11",
+      "closeDate": "2026-03-26",
+      "outcomeProfile": "healthy",
+      "contacts": [
+        {
+          "name": "Blair Okafor",
+          "role": "Chief Technology Officer"
+        },
+        {
+          "name": "Alexis Marsh",
+          "role": "Director of Engineering"
+        },
+        {
+          "name": "Blair Hughes",
+          "role": "VP of Sales"
+        }
+      ],
+      "activityLog": [
+        {
+          "date": "2026-01-14",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Opportunity created; entered Discovery."
+        },
+        {
+          "date": "2026-01-21",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Entered Demo."
+        },
+        {
+          "date": "2026-01-21",
+          "type": "call",
+          "contactName": "Blair Okafor",
+          "note": "Introductory call with Blair Okafor, Chief Technology Officer."
+        },
+        {
+          "date": "2026-01-28",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Entered Proposal."
+        },
+        {
+          "date": "2026-01-28",
+          "type": "call",
+          "contactName": "Alexis Marsh",
+          "note": "Introductory call with Alexis Marsh, Director of Engineering."
+        },
+        {
+          "date": "2026-02-04",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Entered Negotiation."
+        },
+        {
+          "date": "2026-02-04",
+          "type": "call",
+          "contactName": "Blair Hughes",
+          "note": "Introductory call with Blair Hughes, VP of Sales."
+        },
+        {
+          "date": "2026-02-11",
+          "type": "meeting",
+          "contactName": "Blair Hughes",
+          "note": "Product walkthrough meeting."
+        },
+        {
+          "date": "2026-02-15",
+          "type": "meeting",
+          "contactName": "Blair Hughes",
+          "note": "Stakeholder alignment meeting."
+        },
+        {
+          "date": "2026-02-16",
+          "type": "email",
+          "contactName": "Blair Okafor",
+          "note": "Sent product overview deck."
+        },
+        {
+          "date": "2026-02-21",
+          "type": "close-date-change",
+          "contactName": null,
+          "note": "Close date pushed back (push 1 of 1)."
+        },
+        {
+          "date": "2026-02-22",
+          "type": "call",
+          "contactName": "Blair Okafor",
+          "note": "Follow-up call to review open questions."
+        },
+        {
+          "date": "2026-02-22",
+          "type": "email",
+          "contactName": "Blair Hughes",
+          "note": "Replied with answers to technical questions."
+        },
+        {
+          "date": "2026-02-22",
+          "type": "email",
+          "contactName": "Blair Okafor",
+          "note": "Sent product overview deck."
+        }
+      ]
+    },
+    {
+      "id": "opp-027",
+      "company": "Pinnacle Logistics",
+      "amount": 34000,
+      "stage": "demo",
+      "createdDate": "2026-02-09",
+      "stageEnteredDate": "2026-02-20",
+      "closeDate": "2026-05-03",
+      "outcomeProfile": "healthy",
+      "contacts": [
+        {
+          "name": "Taylor Winters",
+          "role": "Director of IT"
+        },
+        {
+          "name": "Harper Fitzgerald",
+          "role": "VP of Product"
+        },
+        {
+          "name": "Avery Silva",
+          "role": "Chief Technology Officer"
+        }
+      ],
+      "activityLog": [
+        {
+          "date": "2026-02-09",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Opportunity created; entered Discovery."
+        },
+        {
+          "date": "2026-02-12",
+          "type": "call",
+          "contactName": "Taylor Winters",
+          "note": "Introductory call with Taylor Winters, Director of IT."
+        },
+        {
+          "date": "2026-02-14",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Entered Demo."
+        },
+        {
+          "date": "2026-02-15",
+          "type": "meeting",
+          "contactName": "Harper Fitzgerald",
+          "note": "Introductory meeting with Harper Fitzgerald, VP of Product."
+        },
+        {
+          "date": "2026-02-17",
+          "type": "call",
+          "contactName": "Avery Silva",
+          "note": "Introductory call with Avery Silva, Chief Technology Officer."
+        },
+        {
+          "date": "2026-02-21",
+          "type": "email",
+          "contactName": "Avery Silva",
+          "note": "Sent a relevant case study."
+        },
+        {
+          "date": "2026-02-24",
+          "type": "email",
+          "contactName": "Avery Silva",
+          "note": "Replied with answers to technical questions."
+        },
+        {
+          "date": "2026-02-27",
+          "type": "email",
+          "contactName": "Taylor Winters",
+          "note": "Sent product overview deck."
+        },
+        {
+          "date": "2026-02-28",
+          "type": "meeting",
+          "contactName": "Harper Fitzgerald",
+          "note": "Kickoff meeting with the extended team."
+        }
+      ]
+    },
+    {
+      "id": "opp-028",
+      "company": "Beacon Robotics",
+      "amount": 241000,
+      "stage": "proposal",
+      "createdDate": "2026-01-31",
+      "stageEnteredDate": "2026-02-12",
+      "closeDate": "2026-04-13",
+      "outcomeProfile": "at-risk",
+      "contacts": [
+        {
+          "name": "Devon Fitzgerald",
+          "role": "Director of Engineering"
+        },
+        {
+          "name": "Harper Delgado",
+          "role": "Director of Engineering"
+        }
+      ],
+      "activityLog": [
+        {
+          "date": "2026-01-31",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Opportunity created; entered Discovery."
+        },
+        {
+          "date": "2026-02-04",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Entered Demo."
+        },
+        {
+          "date": "2026-02-04",
+          "type": "call",
+          "contactName": "Devon Fitzgerald",
+          "note": "Introductory call with Devon Fitzgerald, Director of Engineering."
+        },
+        {
+          "date": "2026-02-08",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Entered Proposal."
+        },
+        {
+          "date": "2026-02-08",
+          "type": "meeting",
+          "contactName": "Harper Delgado",
+          "note": "Introductory meeting with Harper Delgado, Director of Engineering."
+        },
+        {
+          "date": "2026-02-12",
+          "type": "email",
+          "contactName": "Devon Fitzgerald",
+          "note": "Sent product overview deck."
+        },
+        {
+          "date": "2026-02-14",
+          "type": "email",
+          "contactName": "Harper Delgado",
+          "note": "Replied with answers to technical questions."
+        },
+        {
+          "date": "2026-02-16",
+          "type": "email",
+          "contactName": "Harper Delgado",
+          "note": "Sent pricing overview."
+        }
+      ]
+    },
+    {
+      "id": "opp-029",
+      "company": "Quarry Technologies",
+      "amount": 61000,
+      "stage": "proposal",
+      "createdDate": "2026-01-25",
+      "stageEnteredDate": "2026-02-20",
+      "closeDate": "2026-04-11",
+      "outcomeProfile": "healthy",
+      "contacts": [
+        {
+          "name": "Sage Nakamura",
+          "role": "Director of Operations"
+        },
+        {
+          "name": "Skyler Ortiz",
+          "role": "VP of Sales"
+        }
+      ],
+      "activityLog": [
+        {
+          "date": "2026-01-25",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Opportunity created; entered Discovery."
+        },
+        {
+          "date": "2026-02-03",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Entered Demo."
+        },
+        {
+          "date": "2026-02-03",
+          "type": "meeting",
+          "contactName": "Sage Nakamura",
+          "note": "Introductory meeting with Sage Nakamura, Director of Operations."
+        },
+        {
+          "date": "2026-02-11",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Entered Proposal."
+        },
+        {
+          "date": "2026-02-11",
+          "type": "call",
+          "contactName": "Skyler Ortiz",
+          "note": "Introductory call with Skyler Ortiz, VP of Sales."
+        },
+        {
+          "date": "2026-02-20",
+          "type": "call",
+          "contactName": "Sage Nakamura",
+          "note": "Check-in call on timeline and next steps."
+        },
+        {
+          "date": "2026-02-22",
+          "type": "call",
+          "contactName": "Skyler Ortiz",
+          "note": "Check-in call on timeline and next steps."
+        },
+        {
+          "date": "2026-02-24",
+          "type": "close-date-change",
+          "contactName": null,
+          "note": "Close date pushed back (push 1 of 1)."
+        },
+        {
+          "date": "2026-02-27",
+          "type": "email",
+          "contactName": "Sage Nakamura",
+          "note": "Sent product overview deck."
+        }
+      ]
+    },
+    {
+      "id": "opp-030",
+      "company": "Juniper Systems",
+      "amount": 242000,
+      "stage": "proposal",
+      "createdDate": "2026-01-06",
+      "stageEnteredDate": "2026-01-18",
+      "closeDate": "2026-04-01",
+      "outcomeProfile": "stalling",
+      "contacts": [
+        {
+          "name": "Harper Novak",
+          "role": "Chief Revenue Officer"
+        },
+        {
+          "name": "Riley Reyes",
+          "role": "Head of Marketing"
+        }
+      ],
+      "activityLog": [
+        {
+          "date": "2026-01-06",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Opportunity created; entered Discovery."
+        },
+        {
+          "date": "2026-01-10",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Entered Demo."
+        },
+        {
+          "date": "2026-01-10",
+          "type": "call",
+          "contactName": "Harper Novak",
+          "note": "Introductory call with Harper Novak, Chief Revenue Officer."
+        },
+        {
+          "date": "2026-01-14",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Entered Proposal."
+        },
+        {
+          "date": "2026-01-14",
+          "type": "call",
+          "contactName": "Riley Reyes",
+          "note": "Introductory call with Riley Reyes, Head of Marketing."
+        },
+        {
+          "date": "2026-02-14",
+          "type": "email",
+          "contactName": "Riley Reyes",
+          "note": "Sent a relevant case study."
+        },
+        {
+          "date": "2026-02-24",
+          "type": "call",
+          "contactName": "Riley Reyes",
+          "note": "Call to align on requirements."
+        },
+        {
+          "date": "2026-02-26",
+          "type": "meeting",
+          "contactName": "Riley Reyes",
+          "note": "Product walkthrough meeting."
+        },
+        {
+          "date": "2026-03-01",
+          "type": "email",
+          "contactName": "Harper Novak",
+          "note": "Sent pricing overview."
+        }
+      ]
+    },
+    {
+      "id": "opp-031",
+      "company": "Keystone Solutions",
+      "amount": 23000,
+      "stage": "proposal",
+      "createdDate": "2026-01-26",
+      "stageEnteredDate": "2026-02-16",
+      "closeDate": "2026-04-20",
+      "outcomeProfile": "healthy",
+      "contacts": [
+        {
+          "name": "Morgan Patel",
+          "role": "Director of IT"
+        },
+        {
+          "name": "Jamie Ortiz",
+          "role": "Chief Revenue Officer"
+        }
+      ],
+      "activityLog": [
+        {
+          "date": "2026-01-26",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Opportunity created; entered Discovery."
+        },
+        {
+          "date": "2026-02-02",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Entered Demo."
+        },
+        {
+          "date": "2026-02-02",
+          "type": "meeting",
+          "contactName": "Morgan Patel",
+          "note": "Introductory meeting with Morgan Patel, Director of IT."
+        },
+        {
+          "date": "2026-02-09",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Entered Proposal."
+        },
+        {
+          "date": "2026-02-09",
+          "type": "meeting",
+          "contactName": "Jamie Ortiz",
+          "note": "Introductory meeting with Jamie Ortiz, Chief Revenue Officer."
+        },
+        {
+          "date": "2026-02-18",
+          "type": "call",
+          "contactName": "Jamie Ortiz",
+          "note": "Check-in call on timeline and next steps."
+        },
+        {
+          "date": "2026-02-19",
+          "type": "meeting",
+          "contactName": "Morgan Patel",
+          "note": "Product walkthrough meeting."
+        },
+        {
+          "date": "2026-02-25",
+          "type": "meeting",
+          "contactName": "Morgan Patel",
+          "note": "Kickoff meeting with the extended team."
+        },
+        {
+          "date": "2026-02-25",
+          "type": "call",
+          "contactName": "Jamie Ortiz",
+          "note": "Discovery call covering current workflow and pain points."
+        },
+        {
+          "date": "2026-02-28",
+          "type": "call",
+          "contactName": "Jamie Ortiz",
+          "note": "Discovery call covering current workflow and pain points."
+        }
+      ]
+    },
+    {
+      "id": "opp-032",
+      "company": "Cascade Collective",
+      "amount": 218000,
+      "stage": "negotiation",
+      "createdDate": "2026-01-18",
+      "stageEnteredDate": "2026-02-17",
+      "closeDate": "2026-03-14",
+      "outcomeProfile": "at-risk",
+      "contacts": [
+        {
+          "name": "Jordan Winters",
+          "role": "Head of Marketing"
+        },
+        {
+          "name": "Riley Fitzgerald",
+          "role": "Director of IT"
+        }
+      ],
+      "activityLog": [
+        {
+          "date": "2026-01-18",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Opportunity created; entered Discovery."
+        },
+        {
+          "date": "2026-01-25",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Entered Demo."
+        },
+        {
+          "date": "2026-01-28",
+          "type": "call",
+          "contactName": "Jordan Winters",
+          "note": "Introductory call with Jordan Winters, Head of Marketing."
+        },
+        {
+          "date": "2026-02-02",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Entered Proposal."
+        },
+        {
+          "date": "2026-02-07",
+          "type": "meeting",
+          "contactName": "Riley Fitzgerald",
+          "note": "Introductory meeting with Riley Fitzgerald, Director of IT."
+        },
+        {
+          "date": "2026-02-09",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Entered Negotiation."
+        },
+        {
+          "date": "2026-02-17",
+          "type": "email",
+          "contactName": "Jordan Winters",
+          "note": "Sent pricing overview."
+        },
+        {
+          "date": "2026-02-18",
+          "type": "close-date-change",
+          "contactName": null,
+          "note": "Close date pushed back (push 1 of 1)."
+        },
+        {
+          "date": "2026-02-19",
+          "type": "meeting",
+          "contactName": "Riley Fitzgerald",
+          "note": "Technical deep dive session."
+        },
+        {
+          "date": "2026-02-21",
+          "type": "call",
+          "contactName": "Riley Fitzgerald",
+          "note": "Discovery call covering current workflow and pain points."
+        },
+        {
+          "date": "2026-02-22",
+          "type": "call",
+          "contactName": "Riley Fitzgerald",
+          "note": "Call to align on requirements."
+        },
+        {
+          "date": "2026-02-22",
+          "type": "meeting",
+          "contactName": "Riley Fitzgerald",
+          "note": "Technical deep dive session."
+        }
+      ]
+    },
+    {
+      "id": "opp-033",
+      "company": "Foundry Analytics",
+      "amount": 174000,
+      "stage": "proposal",
+      "createdDate": "2025-12-03",
+      "stageEnteredDate": "2026-01-08",
+      "closeDate": "2026-04-04",
+      "outcomeProfile": "stalling",
+      "contacts": [
+        {
+          "name": "Emerson Silva",
+          "role": "VP of Sales"
+        },
+        {
+          "name": "Riley Marsh",
+          "role": "Chief Revenue Officer"
+        }
+      ],
+      "activityLog": [
+        {
+          "date": "2025-12-03",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Opportunity created; entered Discovery."
+        },
+        {
+          "date": "2025-12-15",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Entered Demo."
+        },
+        {
+          "date": "2025-12-15",
+          "type": "call",
+          "contactName": "Emerson Silva",
+          "note": "Introductory call with Emerson Silva, VP of Sales."
+        },
+        {
+          "date": "2025-12-27",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Entered Proposal."
+        },
+        {
+          "date": "2025-12-27",
+          "type": "call",
+          "contactName": "Riley Marsh",
+          "note": "Introductory call with Riley Marsh, Chief Revenue Officer."
+        },
+        {
+          "date": "2026-01-14",
+          "type": "call",
+          "contactName": "Riley Marsh",
+          "note": "Discovery call covering current workflow and pain points."
+        },
+        {
+          "date": "2026-01-30",
+          "type": "meeting",
+          "contactName": "Riley Marsh",
+          "note": "Kickoff meeting with the extended team."
+        },
+        {
+          "date": "2026-02-18",
+          "type": "meeting",
+          "contactName": "Riley Marsh",
+          "note": "Kickoff meeting with the extended team."
+        },
+        {
+          "date": "2026-03-01",
+          "type": "call",
+          "contactName": "Riley Marsh",
+          "note": "Call to align on requirements."
+        }
+      ]
+    },
+    {
+      "id": "opp-034",
+      "company": "Pinnacle Systems",
+      "amount": 91000,
+      "stage": "discovery",
+      "createdDate": "2026-02-16",
+      "stageEnteredDate": "2026-02-16",
+      "closeDate": "2026-05-24",
+      "outcomeProfile": "stalling",
+      "contacts": [
+        {
+          "name": "Devon Ortiz",
+          "role": "Head of Marketing"
+        },
+        {
+          "name": "Devon Novak",
+          "role": "Director of IT"
+        }
+      ],
+      "activityLog": [
+        {
+          "date": "2026-02-16",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Opportunity created; entered Discovery."
+        },
+        {
+          "date": "2026-02-16",
+          "type": "call",
+          "contactName": "Devon Ortiz",
+          "note": "Introductory call with Devon Ortiz, Head of Marketing."
+        },
+        {
+          "date": "2026-02-16",
+          "type": "call",
+          "contactName": "Devon Novak",
+          "note": "Introductory call with Devon Novak, Director of IT."
+        },
+        {
+          "date": "2026-02-18",
+          "type": "call",
+          "contactName": "Devon Novak",
+          "note": "Check-in call on timeline and next steps."
+        },
+        {
+          "date": "2026-02-18",
+          "type": "meeting",
+          "contactName": "Devon Ortiz",
+          "note": "Product walkthrough meeting."
+        },
+        {
+          "date": "2026-02-22",
+          "type": "call",
+          "contactName": "Devon Novak",
+          "note": "Follow-up call to review open questions."
+        },
+        {
+          "date": "2026-03-01",
+          "type": "email",
+          "contactName": "Devon Ortiz",
+          "note": "Sent product overview deck."
+        }
+      ]
+    },
+    {
+      "id": "opp-035",
+      "company": "Driftwood Collective",
+      "amount": 107000,
+      "stage": "negotiation",
+      "createdDate": "2025-12-31",
+      "stageEnteredDate": "2026-02-04",
+      "closeDate": "2026-03-24",
+      "outcomeProfile": "stalling",
+      "contacts": [
+        {
+          "name": "Jamie Hughes",
+          "role": "Director of Operations"
+        },
+        {
+          "name": "Emerson Reyes",
+          "role": "Head of Marketing"
+        }
+      ],
+      "activityLog": [
+        {
+          "date": "2025-12-31",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Opportunity created; entered Discovery."
+        },
+        {
+          "date": "2026-01-09",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Entered Demo."
+        },
+        {
+          "date": "2026-01-12",
+          "type": "call",
+          "contactName": "Jamie Hughes",
+          "note": "Introductory call with Jamie Hughes, Director of Operations."
+        },
+        {
+          "date": "2026-01-17",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Entered Proposal."
+        },
+        {
+          "date": "2026-01-23",
+          "type": "meeting",
+          "contactName": "Emerson Reyes",
+          "note": "Introductory meeting with Emerson Reyes, Head of Marketing."
+        },
+        {
+          "date": "2026-01-26",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Entered Negotiation."
+        },
+        {
+          "date": "2026-02-04",
+          "type": "call",
+          "contactName": "Emerson Reyes",
+          "note": "Follow-up call to review open questions."
+        },
+        {
+          "date": "2026-02-06",
+          "type": "meeting",
+          "contactName": "Jamie Hughes",
+          "note": "Kickoff meeting with the extended team."
+        },
+        {
+          "date": "2026-02-07",
+          "type": "meeting",
+          "contactName": "Emerson Reyes",
+          "note": "Technical deep dive session."
+        },
+        {
+          "date": "2026-02-08",
+          "type": "meeting",
+          "contactName": "Emerson Reyes",
+          "note": "Kickoff meeting with the extended team."
+        },
+        {
+          "date": "2026-02-09",
+          "type": "meeting",
+          "contactName": "Jamie Hughes",
+          "note": "Product walkthrough meeting."
+        },
+        {
+          "date": "2026-02-09",
+          "type": "meeting",
+          "contactName": "Jamie Hughes",
+          "note": "Stakeholder alignment meeting."
+        }
+      ]
+    },
+    {
+      "id": "opp-036",
+      "company": "Cascade Industries",
+      "amount": 187000,
+      "stage": "demo",
+      "createdDate": "2026-01-25",
+      "stageEnteredDate": "2026-02-23",
+      "closeDate": "2026-05-10",
+      "outcomeProfile": "healthy",
+      "contacts": [
+        {
+          "name": "Jamie Kwan",
+          "role": "Chief Technology Officer"
+        },
+        {
+          "name": "Taylor Ibrahim",
+          "role": "Chief Revenue Officer"
+        },
+        {
+          "name": "Sage Foster",
+          "role": "Head of Customer Success"
+        }
+      ],
+      "activityLog": [
+        {
+          "date": "2026-01-25",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Opportunity created; entered Discovery."
+        },
+        {
+          "date": "2026-02-01",
+          "type": "call",
+          "contactName": "Jamie Kwan",
+          "note": "Introductory call with Jamie Kwan, Chief Technology Officer."
+        },
+        {
+          "date": "2026-02-08",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Entered Demo."
+        },
+        {
+          "date": "2026-02-09",
+          "type": "meeting",
+          "contactName": "Taylor Ibrahim",
+          "note": "Introductory meeting with Taylor Ibrahim, Chief Revenue Officer."
+        },
+        {
+          "date": "2026-02-16",
+          "type": "meeting",
+          "contactName": "Sage Foster",
+          "note": "Introductory meeting with Sage Foster, Head of Customer Success."
+        },
+        {
+          "date": "2026-02-24",
+          "type": "email",
+          "contactName": "Jamie Kwan",
+          "note": "Sent a relevant case study."
+        },
+        {
+          "date": "2026-02-24",
+          "type": "meeting",
+          "contactName": "Taylor Ibrahim",
+          "note": "Product walkthrough meeting."
+        },
+        {
+          "date": "2026-02-25",
+          "type": "meeting",
+          "contactName": "Taylor Ibrahim",
+          "note": "Product walkthrough meeting."
+        },
+        {
+          "date": "2026-02-28",
+          "type": "call",
+          "contactName": "Taylor Ibrahim",
+          "note": "Follow-up call to review open questions."
+        },
+        {
+          "date": "2026-03-01",
+          "type": "call",
+          "contactName": "Taylor Ibrahim",
+          "note": "Follow-up call to review open questions."
+        }
+      ]
+    },
+    {
+      "id": "opp-037",
+      "company": "Ember Health",
+      "amount": 199000,
+      "stage": "proposal",
+      "createdDate": "2026-01-05",
+      "stageEnteredDate": "2026-01-22",
+      "closeDate": "2026-04-20",
+      "outcomeProfile": "stalling",
+      "contacts": [
+        {
+          "name": "Chris Patel",
+          "role": "Chief Revenue Officer"
+        },
+        {
+          "name": "Skyler Abernathy",
+          "role": "VP of Engineering"
+        }
+      ],
+      "activityLog": [
+        {
+          "date": "2026-01-05",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Opportunity created; entered Discovery."
+        },
+        {
+          "date": "2026-01-11",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Entered Demo."
+        },
+        {
+          "date": "2026-01-11",
+          "type": "meeting",
+          "contactName": "Chris Patel",
+          "note": "Introductory meeting with Chris Patel, Chief Revenue Officer."
+        },
+        {
+          "date": "2026-01-16",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Entered Proposal."
+        },
+        {
+          "date": "2026-01-16",
+          "type": "meeting",
+          "contactName": "Skyler Abernathy",
+          "note": "Introductory meeting with Skyler Abernathy, VP of Engineering."
+        },
+        {
+          "date": "2026-01-23",
+          "type": "meeting",
+          "contactName": "Skyler Abernathy",
+          "note": "Kickoff meeting with the extended team."
+        },
+        {
+          "date": "2026-01-29",
+          "type": "call",
+          "contactName": "Chris Patel",
+          "note": "Discovery call covering current workflow and pain points."
+        },
+        {
+          "date": "2026-01-29",
+          "type": "meeting",
+          "contactName": "Chris Patel",
+          "note": "Product walkthrough meeting."
+        }
+      ]
+    },
+    {
+      "id": "opp-038",
+      "company": "Foundry Dynamics",
+      "amount": 223000,
+      "stage": "proposal",
+      "createdDate": "2026-01-13",
+      "stageEnteredDate": "2026-02-14",
+      "closeDate": "2026-04-13",
+      "outcomeProfile": "healthy",
+      "contacts": [
+        {
+          "name": "Morgan Okafor",
+          "role": "Director of IT"
+        },
+        {
+          "name": "Casey Ibrahim",
+          "role": "VP of Product"
+        },
+        {
+          "name": "Dakota Winters",
+          "role": "Head of Customer Success"
+        }
+      ],
+      "activityLog": [
+        {
+          "date": "2026-01-13",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Opportunity created; entered Discovery."
+        },
+        {
+          "date": "2026-01-21",
+          "type": "call",
+          "contactName": "Morgan Okafor",
+          "note": "Introductory call with Morgan Okafor, Director of IT."
+        },
+        {
+          "date": "2026-01-24",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Entered Demo."
+        },
+        {
+          "date": "2026-01-29",
+          "type": "call",
+          "contactName": "Casey Ibrahim",
+          "note": "Introductory call with Casey Ibrahim, VP of Product."
+        },
+        {
+          "date": "2026-02-03",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Entered Proposal."
+        },
+        {
+          "date": "2026-02-06",
+          "type": "call",
+          "contactName": "Dakota Winters",
+          "note": "Introductory call with Dakota Winters, Head of Customer Success."
+        },
+        {
+          "date": "2026-02-14",
+          "type": "meeting",
+          "contactName": "Casey Ibrahim",
+          "note": "Technical deep dive session."
+        },
+        {
+          "date": "2026-02-18",
+          "type": "call",
+          "contactName": "Dakota Winters",
+          "note": "Follow-up call to review open questions."
+        },
+        {
+          "date": "2026-02-20",
+          "type": "call",
+          "contactName": "Morgan Okafor",
+          "note": "Follow-up call to review open questions."
+        },
+        {
+          "date": "2026-02-20",
+          "type": "call",
+          "contactName": "Casey Ibrahim",
+          "note": "Call to align on requirements."
+        },
+        {
+          "date": "2026-02-21",
+          "type": "email",
+          "contactName": "Dakota Winters",
+          "note": "Sent pricing overview."
+        }
+      ]
+    },
+    {
+      "id": "opp-039",
+      "company": "Thornwood Health",
+      "amount": 16000,
+      "stage": "demo",
+      "createdDate": "2026-02-05",
+      "stageEnteredDate": "2026-02-23",
+      "closeDate": "2026-05-08",
+      "outcomeProfile": "healthy",
+      "contacts": [
+        {
+          "name": "Dakota Ibrahim",
+          "role": "Chief Revenue Officer"
+        },
+        {
+          "name": "Harper Abernathy",
+          "role": "VP of Sales"
+        }
+      ],
+      "activityLog": [
+        {
+          "date": "2026-02-05",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Opportunity created; entered Discovery."
+        },
+        {
+          "date": "2026-02-11",
+          "type": "meeting",
+          "contactName": "Dakota Ibrahim",
+          "note": "Introductory meeting with Dakota Ibrahim, Chief Revenue Officer."
+        },
+        {
+          "date": "2026-02-14",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Entered Demo."
+        },
+        {
+          "date": "2026-02-17",
+          "type": "meeting",
+          "contactName": "Harper Abernathy",
+          "note": "Introductory meeting with Harper Abernathy, VP of Sales."
+        },
+        {
+          "date": "2026-02-27",
+          "type": "meeting",
+          "contactName": "Dakota Ibrahim",
+          "note": "Stakeholder alignment meeting."
+        },
+        {
+          "date": "2026-02-28",
+          "type": "call",
+          "contactName": "Dakota Ibrahim",
+          "note": "Follow-up call to review open questions."
+        },
+        {
+          "date": "2026-02-28",
+          "type": "email",
+          "contactName": "Harper Abernathy",
+          "note": "Sent pricing overview."
+        }
+      ]
+    },
+    {
+      "id": "opp-040",
+      "company": "Anchor Analytics",
+      "amount": 214000,
+      "stage": "discovery",
+      "createdDate": "2026-02-24",
+      "stageEnteredDate": "2026-02-24",
+      "closeDate": "2026-05-12",
+      "outcomeProfile": "healthy",
+      "contacts": [
+        {
+          "name": "Devon Foster",
+          "role": "Head of Marketing"
+        },
+        {
+          "name": "Chris Castillo",
+          "role": "VP of Sales"
+        }
+      ],
+      "activityLog": [
+        {
+          "date": "2026-02-24",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Opportunity created; entered Discovery."
+        },
+        {
+          "date": "2026-02-24",
+          "type": "meeting",
+          "contactName": "Devon Foster",
+          "note": "Introductory meeting with Devon Foster, Head of Marketing."
+        },
+        {
+          "date": "2026-02-24",
+          "type": "meeting",
+          "contactName": "Chris Castillo",
+          "note": "Introductory meeting with Chris Castillo, VP of Sales."
+        },
+        {
+          "date": "2026-02-25",
+          "type": "call",
+          "contactName": "Chris Castillo",
+          "note": "Check-in call on timeline and next steps."
+        },
+        {
+          "date": "2026-02-25",
+          "type": "meeting",
+          "contactName": "Chris Castillo",
+          "note": "Product walkthrough meeting."
+        },
+        {
+          "date": "2026-02-25",
+          "type": "close-date-change",
+          "contactName": null,
+          "note": "Close date pushed back (push 1 of 1)."
+        },
+        {
+          "date": "2026-02-26",
+          "type": "email",
+          "contactName": "Devon Foster",
+          "note": "Sent product overview deck."
+        },
+        {
+          "date": "2026-02-28",
+          "type": "meeting",
+          "contactName": "Chris Castillo",
+          "note": "Product walkthrough meeting."
+        },
+        {
+          "date": "2026-03-01",
+          "type": "call",
+          "contactName": "Devon Foster",
+          "note": "Discovery call covering current workflow and pain points."
+        },
+        {
+          "date": "2026-03-01",
+          "type": "call",
+          "contactName": "Devon Foster",
+          "note": "Discovery call covering current workflow and pain points."
+        }
+      ]
+    },
+    {
+      "id": "opp-041",
+      "company": "Nightshade Technologies",
+      "amount": 206000,
+      "stage": "proposal",
+      "createdDate": "2026-02-07",
+      "stageEnteredDate": "2026-02-20",
+      "closeDate": "2026-04-12",
+      "outcomeProfile": "at-risk",
+      "contacts": [
+        {
+          "name": "Alexis Novak",
+          "role": "VP of Sales"
+        },
+        {
+          "name": "Rowan Ibrahim",
+          "role": "VP of Engineering"
+        }
+      ],
+      "activityLog": [
+        {
+          "date": "2026-02-07",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Opportunity created; entered Discovery."
+        },
+        {
+          "date": "2026-02-11",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Entered Demo."
+        },
+        {
+          "date": "2026-02-11",
+          "type": "meeting",
+          "contactName": "Alexis Novak",
+          "note": "Introductory meeting with Alexis Novak, VP of Sales."
+        },
+        {
+          "date": "2026-02-16",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Entered Proposal."
+        },
+        {
+          "date": "2026-02-16",
+          "type": "call",
+          "contactName": "Rowan Ibrahim",
+          "note": "Introductory call with Rowan Ibrahim, VP of Engineering."
+        },
+        {
+          "date": "2026-02-21",
+          "type": "email",
+          "contactName": "Rowan Ibrahim",
+          "note": "Sent pricing overview."
+        },
+        {
+          "date": "2026-02-22",
+          "type": "call",
+          "contactName": "Rowan Ibrahim",
+          "note": "Call to align on requirements."
+        },
+        {
+          "date": "2026-02-23",
+          "type": "close-date-change",
+          "contactName": null,
+          "note": "Close date pushed back (push 1 of 2)."
+        },
+        {
+          "date": "2026-02-23",
+          "type": "close-date-change",
+          "contactName": null,
+          "note": "Close date pushed back (push 2 of 2)."
+        },
+        {
+          "date": "2026-02-26",
+          "type": "meeting",
+          "contactName": "Alexis Novak",
+          "note": "Product walkthrough meeting."
+        },
+        {
+          "date": "2026-02-26",
+          "type": "email",
+          "contactName": "Alexis Novak",
+          "note": "Sent product overview deck."
+        }
+      ]
+    },
+    {
+      "id": "opp-042",
+      "company": "Ridgeline Industries",
+      "amount": 51000,
+      "stage": "negotiation",
+      "createdDate": "2026-01-24",
+      "stageEnteredDate": "2026-02-27",
+      "closeDate": "2026-03-14",
+      "outcomeProfile": "at-risk",
+      "contacts": [
+        {
+          "name": "Jordan Castillo",
+          "role": "Director of IT"
+        }
+      ],
+      "activityLog": [
+        {
+          "date": "2026-01-24",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Opportunity created; entered Discovery."
+        },
+        {
+          "date": "2026-02-01",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Entered Demo."
+        },
+        {
+          "date": "2026-02-10",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Entered Proposal."
+        },
+        {
+          "date": "2026-02-10",
+          "type": "meeting",
+          "contactName": "Jordan Castillo",
+          "note": "Introductory meeting with Jordan Castillo, Director of IT."
+        },
+        {
+          "date": "2026-02-18",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Entered Negotiation."
+        },
+        {
+          "date": "2026-02-27",
+          "type": "email",
+          "contactName": "Jordan Castillo",
+          "note": "Sent product overview deck."
+        },
+        {
+          "date": "2026-02-27",
+          "type": "meeting",
+          "contactName": "Jordan Castillo",
+          "note": "Technical deep dive session."
+        },
+        {
+          "date": "2026-02-27",
+          "type": "email",
+          "contactName": "Jordan Castillo",
+          "note": "Sent product overview deck."
+        },
+        {
+          "date": "2026-02-27",
+          "type": "call",
+          "contactName": "Jordan Castillo",
+          "note": "Follow-up call to review open questions."
+        }
+      ]
+    },
+    {
+      "id": "opp-043",
+      "company": "Ember Software",
+      "amount": 173000,
+      "stage": "demo",
+      "createdDate": "2026-01-05",
+      "stageEnteredDate": "2026-01-26",
+      "closeDate": "2026-04-29",
+      "outcomeProfile": "stalling",
+      "contacts": [
+        {
+          "name": "Blair Marsh",
+          "role": "Chief Revenue Officer"
+        },
+        {
+          "name": "Chris Ortiz",
+          "role": "Chief Technology Officer"
+        }
+      ],
+      "activityLog": [
+        {
+          "date": "2026-01-05",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Opportunity created; entered Discovery."
+        },
+        {
+          "date": "2026-01-12",
+          "type": "meeting",
+          "contactName": "Blair Marsh",
+          "note": "Introductory meeting with Blair Marsh, Chief Revenue Officer."
+        },
+        {
+          "date": "2026-01-15",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Entered Demo."
+        },
+        {
+          "date": "2026-01-19",
+          "type": "call",
+          "contactName": "Chris Ortiz",
+          "note": "Introductory call with Chris Ortiz, Chief Technology Officer."
+        },
+        {
+          "date": "2026-01-26",
+          "type": "email",
+          "contactName": "Blair Marsh",
+          "note": "Sent a relevant case study."
+        },
+        {
+          "date": "2026-01-27",
+          "type": "call",
+          "contactName": "Blair Marsh",
+          "note": "Follow-up call to review open questions."
+        },
+        {
+          "date": "2026-01-28",
+          "type": "email",
+          "contactName": "Blair Marsh",
+          "note": "Sent pricing overview."
+        },
+        {
+          "date": "2026-01-29",
+          "type": "call",
+          "contactName": "Chris Ortiz",
+          "note": "Call to align on requirements."
+        },
+        {
+          "date": "2026-01-30",
+          "type": "meeting",
+          "contactName": "Chris Ortiz",
+          "note": "Technical deep dive session."
+        },
+        {
+          "date": "2026-01-30",
+          "type": "meeting",
+          "contactName": "Chris Ortiz",
+          "note": "Technical deep dive session."
+        }
+      ]
+    },
+    {
+      "id": "opp-044",
+      "company": "Summit Digital",
+      "amount": 212000,
+      "stage": "negotiation",
+      "createdDate": "2026-01-20",
+      "stageEnteredDate": "2026-02-15",
+      "closeDate": "2026-03-29",
+      "outcomeProfile": "healthy",
+      "contacts": [
+        {
+          "name": "Emerson Novak",
+          "role": "Director of Engineering"
+        },
+        {
+          "name": "Harper Silva",
+          "role": "Chief Revenue Officer"
+        }
+      ],
+      "activityLog": [
+        {
+          "date": "2026-01-20",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Opportunity created; entered Discovery."
+        },
+        {
+          "date": "2026-01-26",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Entered Demo."
+        },
+        {
+          "date": "2026-01-29",
+          "type": "call",
+          "contactName": "Emerson Novak",
+          "note": "Introductory call with Emerson Novak, Director of Engineering."
+        },
+        {
+          "date": "2026-02-02",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Entered Proposal."
+        },
+        {
+          "date": "2026-02-06",
+          "type": "call",
+          "contactName": "Harper Silva",
+          "note": "Introductory call with Harper Silva, Chief Revenue Officer."
+        },
+        {
+          "date": "2026-02-08",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Entered Negotiation."
+        },
+        {
+          "date": "2026-02-16",
+          "type": "email",
+          "contactName": "Harper Silva",
+          "note": "Sent product overview deck."
+        },
+        {
+          "date": "2026-02-19",
+          "type": "meeting",
+          "contactName": "Harper Silva",
+          "note": "Product walkthrough meeting."
+        },
+        {
+          "date": "2026-03-01",
+          "type": "email",
+          "contactName": "Harper Silva",
+          "note": "Sent product overview deck."
+        },
+        {
+          "date": "2026-03-01",
+          "type": "meeting",
+          "contactName": "Harper Silva",
+          "note": "Kickoff meeting with the extended team."
+        }
+      ]
+    },
+    {
+      "id": "opp-045",
+      "company": "Meridian Logistics",
+      "amount": 27000,
+      "stage": "negotiation",
+      "createdDate": "2026-01-18",
+      "stageEnteredDate": "2026-02-25",
+      "closeDate": "2026-03-24",
+      "outcomeProfile": "healthy",
+      "contacts": [
+        {
+          "name": "Alexis Ibrahim",
+          "role": "Head of Marketing"
+        },
+        {
+          "name": "Harper Foster",
+          "role": "VP of Product"
+        }
+      ],
+      "activityLog": [
+        {
+          "date": "2026-01-18",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Opportunity created; entered Discovery."
+        },
+        {
+          "date": "2026-01-27",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Entered Demo."
+        },
+        {
+          "date": "2026-01-31",
+          "type": "call",
+          "contactName": "Alexis Ibrahim",
+          "note": "Introductory call with Alexis Ibrahim, Head of Marketing."
+        },
+        {
+          "date": "2026-02-06",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Entered Proposal."
+        },
+        {
+          "date": "2026-02-12",
+          "type": "call",
+          "contactName": "Harper Foster",
+          "note": "Introductory call with Harper Foster, VP of Product."
+        },
+        {
+          "date": "2026-02-15",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Entered Negotiation."
+        },
+        {
+          "date": "2026-02-26",
+          "type": "email",
+          "contactName": "Alexis Ibrahim",
+          "note": "Replied with answers to technical questions."
+        },
+        {
+          "date": "2026-02-27",
+          "type": "call",
+          "contactName": "Harper Foster",
+          "note": "Discovery call covering current workflow and pain points."
+        },
+        {
+          "date": "2026-02-27",
+          "type": "email",
+          "contactName": "Harper Foster",
+          "note": "Replied with answers to technical questions."
+        }
+      ]
+    },
+    {
+      "id": "opp-046",
+      "company": "Foundry Digital",
+      "amount": 102000,
+      "stage": "discovery",
+      "createdDate": "2026-02-27",
+      "stageEnteredDate": "2026-02-27",
+      "closeDate": "2026-05-14",
+      "outcomeProfile": "at-risk",
+      "contacts": [
+        {
+          "name": "Taylor Fitzgerald",
+          "role": "Chief Revenue Officer"
+        }
+      ],
+      "activityLog": [
+        {
+          "date": "2026-02-27",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Opportunity created; entered Discovery."
+        },
+        {
+          "date": "2026-02-27",
+          "type": "meeting",
+          "contactName": "Taylor Fitzgerald",
+          "note": "Introductory meeting with Taylor Fitzgerald, Chief Revenue Officer."
+        },
+        {
+          "date": "2026-02-27",
+          "type": "email",
+          "contactName": "Taylor Fitzgerald",
+          "note": "Sent a relevant case study."
+        },
+        {
+          "date": "2026-02-27",
+          "type": "email",
+          "contactName": "Taylor Fitzgerald",
+          "note": "Sent product overview deck."
+        },
+        {
+          "date": "2026-02-27",
+          "type": "email",
+          "contactName": "Taylor Fitzgerald",
+          "note": "Sent product overview deck."
+        },
+        {
+          "date": "2026-02-28",
+          "type": "meeting",
+          "contactName": "Taylor Fitzgerald",
+          "note": "Kickoff meeting with the extended team."
+        },
+        {
+          "date": "2026-02-28",
+          "type": "meeting",
+          "contactName": "Taylor Fitzgerald",
+          "note": "Stakeholder alignment meeting."
+        },
+        {
+          "date": "2026-02-28",
+          "type": "email",
+          "contactName": "Taylor Fitzgerald",
+          "note": "Sent pricing overview."
+        }
+      ]
+    },
+    {
+      "id": "opp-047",
+      "company": "Meridian Digital",
+      "amount": 23000,
+      "stage": "proposal",
+      "createdDate": "2026-01-12",
+      "stageEnteredDate": "2026-02-21",
+      "closeDate": "2026-04-10",
+      "outcomeProfile": "at-risk",
+      "contacts": [
+        {
+          "name": "Chris Novak",
+          "role": "Chief Technology Officer"
+        },
+        {
+          "name": "Quinn Delgado",
+          "role": "VP of Product"
+        }
+      ],
+      "activityLog": [
+        {
+          "date": "2026-01-12",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Opportunity created; entered Discovery."
+        },
+        {
+          "date": "2026-01-25",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Entered Demo."
+        },
+        {
+          "date": "2026-01-25",
+          "type": "call",
+          "contactName": "Chris Novak",
+          "note": "Introductory call with Chris Novak, Chief Technology Officer."
+        },
+        {
+          "date": "2026-02-08",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Entered Proposal."
+        },
+        {
+          "date": "2026-02-08",
+          "type": "meeting",
+          "contactName": "Quinn Delgado",
+          "note": "Introductory meeting with Quinn Delgado, VP of Product."
+        },
+        {
+          "date": "2026-02-21",
+          "type": "close-date-change",
+          "contactName": null,
+          "note": "Close date pushed back (push 1 of 2)."
+        },
+        {
+          "date": "2026-02-25",
+          "type": "close-date-change",
+          "contactName": null,
+          "note": "Close date pushed back (push 2 of 2)."
+        },
+        {
+          "date": "2026-02-27",
+          "type": "meeting",
+          "contactName": "Quinn Delgado",
+          "note": "Product walkthrough meeting."
+        },
+        {
+          "date": "2026-02-28",
+          "type": "meeting",
+          "contactName": "Quinn Delgado",
+          "note": "Product walkthrough meeting."
+        },
+        {
+          "date": "2026-02-28",
+          "type": "meeting",
+          "contactName": "Chris Novak",
+          "note": "Technical deep dive session."
+        }
+      ]
+    },
+    {
+      "id": "opp-048",
+      "company": "Driftwood Health",
+      "amount": 235000,
+      "stage": "proposal",
+      "createdDate": "2026-01-21",
+      "stageEnteredDate": "2026-02-10",
+      "closeDate": "2026-04-10",
+      "outcomeProfile": "at-risk",
+      "contacts": [
+        {
+          "name": "Jamie Ibrahim",
+          "role": "Director of IT"
+        },
+        {
+          "name": "Dakota Bennett",
+          "role": "VP of Product"
+        }
+      ],
+      "activityLog": [
+        {
+          "date": "2026-01-21",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Opportunity created; entered Discovery."
+        },
+        {
+          "date": "2026-01-28",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Entered Demo."
+        },
+        {
+          "date": "2026-01-28",
+          "type": "call",
+          "contactName": "Jamie Ibrahim",
+          "note": "Introductory call with Jamie Ibrahim, Director of IT."
+        },
+        {
+          "date": "2026-02-03",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Entered Proposal."
+        },
+        {
+          "date": "2026-02-03",
+          "type": "call",
+          "contactName": "Dakota Bennett",
+          "note": "Introductory call with Dakota Bennett, VP of Product."
+        },
+        {
+          "date": "2026-02-10",
+          "type": "email",
+          "contactName": "Jamie Ibrahim",
+          "note": "Replied with answers to technical questions."
+        },
+        {
+          "date": "2026-02-11",
+          "type": "meeting",
+          "contactName": "Dakota Bennett",
+          "note": "Stakeholder alignment meeting."
+        },
+        {
+          "date": "2026-02-12",
+          "type": "call",
+          "contactName": "Jamie Ibrahim",
+          "note": "Check-in call on timeline and next steps."
+        },
+        {
+          "date": "2026-02-15",
+          "type": "meeting",
+          "contactName": "Dakota Bennett",
+          "note": "Technical deep dive session."
+        },
+        {
+          "date": "2026-02-15",
+          "type": "email",
+          "contactName": "Dakota Bennett",
+          "note": "Sent pricing overview."
+        },
+        {
+          "date": "2026-02-15",
+          "type": "call",
+          "contactName": "Dakota Bennett",
+          "note": "Follow-up call to review open questions."
+        }
+      ]
+    },
+    {
+      "id": "opp-049",
+      "company": "Juniper Partners",
+      "amount": 125000,
+      "stage": "negotiation",
+      "createdDate": "2026-02-06",
+      "stageEnteredDate": "2026-02-12",
+      "closeDate": "2026-03-29",
+      "outcomeProfile": "at-risk",
+      "contacts": [
+        {
+          "name": "Quinn Abernathy",
+          "role": "Director of Operations"
+        }
+      ],
+      "activityLog": [
+        {
+          "date": "2026-02-06",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Opportunity created; entered Discovery."
+        },
+        {
+          "date": "2026-02-07",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Entered Demo."
+        },
+        {
+          "date": "2026-02-09",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Entered Proposal."
+        },
+        {
+          "date": "2026-02-09",
+          "type": "call",
+          "contactName": "Quinn Abernathy",
+          "note": "Introductory call with Quinn Abernathy, Director of Operations."
+        },
+        {
+          "date": "2026-02-10",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Entered Negotiation."
+        },
+        {
+          "date": "2026-02-12",
+          "type": "meeting",
+          "contactName": "Quinn Abernathy",
+          "note": "Kickoff meeting with the extended team."
+        },
+        {
+          "date": "2026-02-18",
+          "type": "call",
+          "contactName": "Quinn Abernathy",
+          "note": "Discovery call covering current workflow and pain points."
+        },
+        {
+          "date": "2026-02-23",
+          "type": "meeting",
+          "contactName": "Quinn Abernathy",
+          "note": "Stakeholder alignment meeting."
+        },
+        {
+          "date": "2026-02-27",
+          "type": "meeting",
+          "contactName": "Quinn Abernathy",
+          "note": "Product walkthrough meeting."
+        }
+      ]
+    },
+    {
+      "id": "opp-050",
+      "company": "Driftwood Partners",
+      "amount": 52000,
+      "stage": "proposal",
+      "createdDate": "2026-02-22",
+      "stageEnteredDate": "2026-02-28",
+      "closeDate": "2026-04-06",
+      "outcomeProfile": "at-risk",
+      "contacts": [
+        {
+          "name": "Chris Silva",
+          "role": "Chief Revenue Officer"
+        },
+        {
+          "name": "Finley Abernathy",
+          "role": "Director of IT"
+        }
+      ],
+      "activityLog": [
+        {
+          "date": "2026-02-22",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Opportunity created; entered Discovery."
+        },
+        {
+          "date": "2026-02-24",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Entered Demo."
+        },
+        {
+          "date": "2026-02-24",
+          "type": "meeting",
+          "contactName": "Chris Silva",
+          "note": "Introductory meeting with Chris Silva, Chief Revenue Officer."
+        },
+        {
+          "date": "2026-02-26",
+          "type": "stage-change",
+          "contactName": null,
+          "note": "Entered Proposal."
+        },
+        {
+          "date": "2026-02-26",
+          "type": "call",
+          "contactName": "Finley Abernathy",
+          "note": "Introductory call with Finley Abernathy, Director of IT."
+        },
+        {
+          "date": "2026-02-28",
+          "type": "email",
+          "contactName": "Chris Silva",
+          "note": "Sent product overview deck."
+        },
+        {
+          "date": "2026-02-28",
+          "type": "email",
+          "contactName": "Chris Silva",
+          "note": "Replied with answers to technical questions."
+        },
+        {
+          "date": "2026-02-28",
+          "type": "email",
+          "contactName": "Chris Silva",
+          "note": "Sent product overview deck."
+        },
+        {
+          "date": "2026-02-28",
+          "type": "email",
+          "contactName": "Chris Silva",
+          "note": "Sent a relevant case study."
+        },
+        {
+          "date": "2026-02-28",
+          "type": "email",
+          "contactName": "Finley Abernathy",
+          "note": "Replied with answers to technical questions."
+        },
+        {
+          "date": "2026-02-28",
+          "type": "call",
+          "contactName": "Chris Silva",
+          "note": "Discovery call covering current workflow and pain points."
+        },
+        {
+          "date": "2026-02-28",
+          "type": "close-date-change",
+          "contactName": null,
+          "note": "Close date pushed back (push 1 of 3)."
+        },
+        {
+          "date": "2026-02-28",
+          "type": "close-date-change",
+          "contactName": null,
+          "note": "Close date pushed back (push 2 of 3)."
+        },
+        {
+          "date": "2026-02-28",
+          "type": "close-date-change",
+          "contactName": null,
+          "note": "Close date pushed back (push 3 of 3)."
+        }
+      ]
+    }
+  ]
+}

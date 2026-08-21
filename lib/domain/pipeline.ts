@@ -3,6 +3,13 @@ import { z } from "zod";
 export const STAGES = ["discovery", "demo", "proposal", "negotiation"] as const;
 export type Stage = (typeof STAGES)[number];
 
+/**
+ * The fixed point in time the whole precomputed corpus is analyzed as-of.
+ * Never `Date.now()` — see PLAN.md Rule 3. Try It Yourself is the one place
+ * in the app that intentionally uses the real current date instead.
+ */
+export const ANALYSIS_DATE = "2026-03-01";
+
 export const OUTCOME_PROFILES = ["healthy", "stalling", "at-risk"] as const;
 export type OutcomeProfile = (typeof OUTCOME_PROFILES)[number];
 
