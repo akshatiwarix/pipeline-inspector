@@ -132,7 +132,7 @@ export function OpportunityTable({ opportunities }: { opportunities: Opportunity
                 </td>
                 <td className="px-3 py-2 text-ink">{STAGE_LABEL[result.opportunity.stage]}</td>
                 <td className="tabular px-3 py-2 font-mono text-ink">
-                  ${result.opportunity.amount.toLocaleString()}
+                  ${result.opportunity.amount.toLocaleString("en-US")}
                 </td>
                 <td className="px-3 py-2">
                   <HealthBadge health={result.inspection.health} />

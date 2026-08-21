@@ -20,7 +20,7 @@ export function checkHighValueCooling(opportunity: Opportunity, asOfDate: string
   return {
     type: "high-value-cooling",
     severity: daysSince >= 14 ? "high" : "medium",
-    detail: `$${opportunity.amount.toLocaleString()} deal in ${STAGE_LABEL[opportunity.stage]}, quiet for ${daysSince} days.`,
+    detail: `$${opportunity.amount.toLocaleString("en-US")} deal in ${STAGE_LABEL[opportunity.stage]}, quiet for ${daysSince} days.`,
     evidence: [{ activityIndex: index, note: entry.note }],
   };
 }
