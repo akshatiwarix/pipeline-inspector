@@ -1,0 +1,73 @@
+@import "tailwindcss";
+
+/*
+ * Pipeline Inspector palette: neutral paper/ink base, plus a risk-severity
+ * scale used identically everywhere a flag's severity appears (table badges,
+ * detail page flags, pipeline health panel). Note the direction is the
+ * INVERSE of a "confidence" scale: high severity means a bigger problem, so
+ * it reads as alarming (red); low severity reads as settled (green).
+ */
+:root {
+  --paper: #f5f4f0;
+  --paper-raised: #ffffff;
+  --ink: #1a1a17;
+  --ink-dim: #6b6459;
+  --line: #ddd9ce;
+  --line-strong: #b6afa0;
+
+  --risk-high: #a23e2e;
+  --risk-high-dim: #eecac2;
+  --risk-medium: #b3701f;
+  --risk-medium-dim: #efd9b5;
+  --risk-low: #3a5a4a;
+  --risk-low-dim: #cfe0d5;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --paper: #15130f;
+    --paper-raised: #1c1a15;
+    --ink: #ede9e1;
+    --ink-dim: #a49b8a;
+    --line: #332e21;
+    --line-strong: #4a4429;
+
+    --risk-high: #e08871;
+    --risk-high-dim: #452720;
+    --risk-medium: #d6a04a;
+    --risk-medium-dim: #453214;
+    --risk-low: #7fb69c;
+    --risk-low-dim: #22392f;
+  }
+}
+
+@theme inline {
+  --color-paper: var(--paper);
+  --color-paper-raised: var(--paper-raised);
+  --color-ink: var(--ink);
+  --color-ink-dim: var(--ink-dim);
+  --color-line: var(--line);
+  --color-line-strong: var(--line-strong);
+  --color-risk-high: var(--risk-high);
+  --color-risk-high-dim: var(--risk-high-dim);
+  --color-risk-medium: var(--risk-medium);
+  --color-risk-medium-dim: var(--risk-medium-dim);
+  --color-risk-low: var(--risk-low);
+  --color-risk-low-dim: var(--risk-low-dim);
+  --font-display: var(--font-newsreader);
+  --font-sans: var(--font-inter);
+  --font-mono: var(--font-jetbrains-mono);
+}
+
+body {
+  background: var(--paper);
+  color: var(--ink);
+}
+
+* {
+  border-color: var(--line);
+}
+
+.tabular {
+  font-variant-numeric: tabular-nums;
+}
