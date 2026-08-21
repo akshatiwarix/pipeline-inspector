@@ -556,25 +556,25 @@ checked) in plain language, no code.
 
 ## Definition of done
 
-- [ ] `npm run build`, `npm run typecheck`, `npm run lint` all clean.
-- [ ] `npm test` green, including every rule, health-rollup, and
+- [x] `npm run build`, `npm run typecheck`, `npm run lint` all clean.
+- [x] `npm test` green, including every rule, health-rollup, and
       evidence-traceability assertion.
-- [ ] `npm run sweep` green on all nine invariants.
-- [ ] Pipeline Inspector live on Vercel, opening on the precomputed library
+- [x] `npm run sweep` green on all nine invariants.
+- [x] Pipeline Inspector live on Vercel, opening on the precomputed library
       with no interaction required; SSO protection confirmed disabled.
-- [ ] All three screens implemented, reading from one pipeline-inspector
+- [x] All three screens implemented, reading from one pipeline-inspector
       computation (library and detail) plus one client-safe shared inspector
       (try-it).
-- [ ] Pipeline health panel renders and its calibration split is visibly
+- [x] Pipeline health panel renders and its calibration split is visibly
       different across outcome profiles (verified in-browser on the live
       deployment).
-- [ ] Opportunity detail page renders timeline, flags, and evidence for at
+- [x] Opportunity detail page renders timeline, flags, and evidence for at
       least one opportunity of each health level.
-- [ ] Try It Yourself inspects live from both the prefilled example and a
+- [x] Try It Yourself inspects live from both the prefilled example and a
       freely edited replacement, with no console errors.
-- [ ] README with real screenshots from the live deployment; plain-English
+- [x] README with real screenshots from the live deployment; plain-English
       guide.
-- [ ] Every task pushed to `main`.
+- [x] Every task pushed to `main`.
 
 ---
 
