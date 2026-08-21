@@ -4,6 +4,7 @@ import {
   STAGES,
   OUTCOME_PROFILES,
   ANALYSIS_DATE,
+  STAGE_LABEL,
   type Stage,
   type OutcomeProfile,
   type Opportunity,
@@ -50,13 +51,6 @@ const ROLES = [
   "VP of Product", "Head of Customer Success", "Director of IT",
   "Chief Technology Officer",
 ] as const;
-
-const STAGE_LABEL: Record<Stage, string> = {
-  discovery: "Discovery",
-  demo: "Demo",
-  proposal: "Proposal",
-  negotiation: "Negotiation",
-};
 
 const CALL_NOTES = [
   "Discovery call covering current workflow and pain points.",

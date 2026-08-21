@@ -10,6 +10,14 @@ export type Stage = (typeof STAGES)[number];
  */
 export const ANALYSIS_DATE = "2026-03-01";
 
+/** Shared with lib/inspection/ (flag detail text) and app/ (table/detail UI). */
+export const STAGE_LABEL: Record<Stage, string> = {
+  discovery: "Discovery",
+  demo: "Demo",
+  proposal: "Proposal",
+  negotiation: "Negotiation",
+};
+
 export const OUTCOME_PROFILES = ["healthy", "stalling", "at-risk"] as const;
 export type OutcomeProfile = (typeof OUTCOME_PROFILES)[number];
 
